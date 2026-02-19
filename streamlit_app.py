@@ -2,77 +2,49 @@ import streamlit as st
 import random
 import time
 
-# Configuración de la web
+# Configuración básica
 st.set_page_config(page_title="ACADEMIA DE CAZA GINER", page_icon="🏹")
 
-# Diseño profesional
-st.markdown("""
-    <style>
-    .stApp { background-color: #f4f7f1; }
-    .main-title { color: #2e4a31; font-size: 3em; font-weight: bold; text-align: center; }
-    </style>
-    """, unsafe_allow_html=True)
+# Estilo visual
+st.markdown("<h1 style='text-align: center; color: #2e4a31;'>🏹 ACADEMIA DE CAZA GINER</h1>", unsafe_allow_html=True)
 
-st.markdown('<p class="main-title">🏹 ACADEMIA DE CAZA GINER</p>', unsafe_allow_html=True)
-
-# BANCO DE PREGUNTAS INTERNO (Para no depender de Google Sheets)
-# Aquí puedes añadir todas las que quieras siguiendo este formato
-banco_preguntas = [
-    {
-        "id": 1,
-        "tema": 1,
-        "pregunta": "¿Cuál es la especie de caza mayor más común en España?",
-        "opciones": ["Corzo", "Jabalí", "Ciervo", "Gamo"],
-        "correcta": "Jabalí"
-    },
-    {
-        "id": 2,
-        "tema": 1,
-        "pregunta": "¿Qué calibre se considera el mínimo para caza mayor?",
-        "opciones": ["22 LR", "243 Win", "12/70", "4.5 mm"],
-        "correcta": "243 Win"
-    }
+# Banco de preguntas directo en el código (Añade más aquí)
+preguntas = [
+    {"id": 1, "pregunta": "¿Especie de caza mayor más común en España?", "opciones": ["Corzo", "Jabalí", "Ciervo"], "correcta": "Jabalí"},
+    {"id": 2, "pregunta": "¿Es obligatorio el seguro para cazar?", "opciones": ["No", "Sí, siempre", "Solo con perros"], "correcta": "Sí, siempre"}
 ]
 
-# Sistema de Login Simple (Temporal)
-if 'auth' not in st.session_state:
-    st.session_state.auth = False
+# Sistema de entrada
+if 'entrar' not in st.session_state:
+    st.session_state.entrar = False
 
-if not st.session_state.auth:
-    col1, col2, col3 = st.columns([1,2,1])
-    with col2:
-        st.subheader("Acceso Alumnos")
-        user = st.text_input("Usuario")
-        if st.button("Entrar"):
-            st.session_state.auth = True
-            st.rerun()
+if not st.session_state.entrar:
+    user = st.text_input("Usuario")
+    if st.button("ACCEDER"):
+        st.session_state.entrar = True
+        st.rerun()
     st.stop()
 
-# Menú Principal
-menu = st.sidebar.radio("Menú", ["Simulacro de Examen", "Repaso por Temas"])
+# Menú y Examen
+st.sidebar.title("Menú")
+if st.sidebar.button("Cerrar Sesión"):
+    st.session_state.entrar = False
+    st.rerun()
 
-if menu == "Simulacro de Examen":
-    st.header("⏱️ Examen Oficial (Cronometrado)")
-    if st.button("Empezar Examen"):
-        st.session_state.examen = random.sample(banco_preguntas, min(len(banco_preguntas), 36))
-        st.session_state.inicio = time.time()
+st.header("⏱️ Simulacro de Examen")
+if st.button("EMPEZAR"):
+    st.session_state.test = random.sample(preguntas, len(preguntas))
+    st.session_state.t_inicio = time.time()
+
+if 'test' in st.session_state:
+    t_transcurrido = int(time.time() - st.session_state.t_inicio)
+    st.sidebar.metric("⏳ TIEMPO", f"{t_transcurrido//60:02d}:{t_transcurrido%60:02d}")
     
-    if 'examen' in st.session_state:
-        # Cronómetro lateral
-        transcurrido = int(time.time() - st.session_state.inicio)
-        st.sidebar.metric("⏳ Tiempo", f"{transcurrido//60:02d}:{transcurrido%60:02d}")
-        
-        with st.form("test"):
-            respuestas = {}
-            for i, p in enumerate(st.session_state.examen):
-                st.write(f"**{i+1}. {p['pregunta']}**")
-                respuestas[p['id']] = st.radio("Elige una:", p['opciones'], key=f"p_{p['id']}", index=None)
-            
-            if st.form_submit_button("Corregir"):
-                aciertos = sum(1 for p in st.session_state.examen if respuestas[p['id']] == p['correcta'])
-                st.success(f"Has acertado {aciertos} preguntas.")
-                for p in st.session_state.examen:
-                    if respuestas[p['id']] == p['correcta']:
-                        st.write(f"✅ {p['pregunta']} - CORRECTA")
-                    else:
-                        st.write(f"❌ {p['pregunta']} - INCORRECTA (Era: {p['correcta']})")
+    with st.form("exam"):
+        res = {}
+        for p in st.session_state.test:
+            st.write(p['pregunta'])
+            res[p['id']] = st.radio("Elige:", p['opciones'], key=p['id'])
+        if st.form_submit_button("CORREGIR"):
+            aciertos = sum(1 for p in st.session_state.test if res[p['id']] == p['correcta'])
+            st.success(f"Resultado: {aciertos} aciertos.")
