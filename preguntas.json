@@ -724,5 +724,2679 @@
     ],
     "correcta": "d) La b y c son correctas.",
     "explicacion": "Tema 3 - Pregunta 25"
+  },
+  {
+    "id": 76,
+    "tema": 4,
+    "pregunta": "1. Es necesario la regulación de la caza mediante normas:",
+    "opciones": [
+      "a) Falso, no es necesario, cada cazador sabe lo que tiene que hacer.",
+      "b) Verdadero, es necesario para que coexista la caza y el aprovechamiento racional de los recursos.",
+      "c) Falso, no es necesario, los cazadores se controlan entre ellos.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "b) Verdadero, es necesario para que coexista la caza y el aprovechamiento racional de los recursos.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 77,
+    "tema": 4,
+    "pregunta": "2. Respecto a la jerarquía normativa, una norma estatal:",
+    "opciones": [
+      "a) Está supeditada a normas internacionales.",
+      "b) Es de rango superior a normas autonómicas.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Ambas son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 78,
+    "tema": 4,
+    "pregunta": "3. ¿Dónde se publica una norma estatal?",
+    "opciones": ["a) En el B.O.U.E.", "b) En el B.O.E. (Boletín Oficial del Estado)", "c) En el B.O.J.A.", "d) En todos los boletines."],
+    "correcta": "b) En el B.O.E. (Boletín Oficial del Estado)",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 79,
+    "tema": 4,
+    "pregunta": "4. ¿Dónde se publica una norma autonómica de rango andaluz?",
+    "opciones": ["a) En el B.O.U.E.", "b) En el B.O.E.", "c) En el B.O.J.A. (Boletín Oficial de la Junta de Andalucía)", "d) En todos los boletines."],
+    "correcta": "c) En el B.O.J.A. (Boletín Oficial de la Junta de Andalucía)",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 80,
+    "tema": 4,
+    "pregunta": "5. ¿Dónde se publica una norma europea?",
+    "opciones": ["a) En el B.O.U.E. (Boletín Oficial de la Unión Europea)", "b) En el B.O.E.", "c) En el B.O.J.A.", "d) En todos los boletines."],
+    "correcta": "a) En el B.O.U.E. (Boletín Oficial de la Unión Europea)",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 81,
+    "tema": 4,
+    "pregunta": "6. De las siguientes normas, indica cuál es de rango estatal:",
+    "opciones": ["a) Ley 8/2003, 28 de octubre.", "b) Ley 42/2007, 13 diciembre.", "c) Ley de Caza de 1970.", "d) La b y c son correctas."],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 82,
+    "tema": 4,
+    "pregunta": "7. De las siguientes normas, indica cuál es de rango autonómico andaluz:",
+    "opciones": ["a) Ley 8/2003, 28 de octubre.", "b) Ley 42/2007, 13 diciembre.", "c) Ley de Caza de 1970.", "d) La b y c son correctas."],
+    "correcta": "a) Ley 8/2003, 28 de octubre.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 83,
+    "tema": 4,
+    "pregunta": "8. La Directiva Aves:",
+    "opciones": ["a) Es de rango estatal.", "b) Es de rango europeo.", "c) En su anexo II está el listado de especies de aves cazables.", "d) La b y c son correctas."],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 84,
+    "tema": 4,
+    "pregunta": "9. La Ley de Caza de 1970 y su Reglamento de 1971:",
+    "opciones": ["a) Está vigente aún en toda España.", "b) Está derogada en Andalucía cuando se aprobó la Ley 8/2003.", "c) Está vigente en toda España, excepto en Andalucía.", "d) La a y b son correctas."],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 85,
+    "tema": 4,
+    "pregunta": "10. En Andalucía, ¿qué ley regula caza?:",
+    "opciones": ["a) La Ley 42/2007.", "b) El Decreto 126/2017.", "c) Ley 8/2003, 28 de octubre.", "d) Todas son correctas."],
+    "correcta": "c) Ley 8/2003, 28 de octubre.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 86,
+    "tema": 4,
+    "pregunta": "11. En Andalucía, la Ley 8/2003, 28 de octubre, ¿qué regula?",
+    "opciones": ["a) Exclusivamente la caza.", "b) Caza, pesca y conservación.", "c) Caza y pesca.", "d) Caza y conservación."],
+    "correcta": "b) Caza, pesca y conservación.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 87,
+    "tema": 4,
+    "pregunta": "12. El Decreto 126/2017, 25 julio, Reglamento de Ordenación de la Caza en Andalucía:",
+    "opciones": ["a) Desarrolla la Ley 8/2003, regulando el ejercicio de la caza.", "b) Es de ámbito andaluz.", "c) Se aprobó en el año 2017.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 88,
+    "tema": 4,
+    "pregunta": "13. La Ley 42/2007, 13 diciembre, Patrimonio Natural y Biodiversidad:",
+    "opciones": ["a) Es de ámbito autonómico y prohibió el uso de plomo en humedales.", "b) Es de ámbito estatal y prohibió el uso de plomo en humedales.", "c) Es la ley número 42 que se aprobó en el año 2007.", "d) La b y c son correctas."],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 89,
+    "tema": 4,
+    "pregunta": "14. Un decreto podrá contradecir una ley:",
+    "opciones": ["a) Nunca.", "b) Siempre.", "c) Depende del decreto que se trate.", "d) Depende de la ley que se trate."],
+    "correcta": "a) Nunca.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 90,
+    "tema": 4,
+    "pregunta": "15. Entre las siguientes normativas, ¿cuál es la de rango superior?",
+    "opciones": ["a) Orden.", "b) Ley.", "c) Decreto.", "d) Resolución."],
+    "correcta": "b) Ley.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 91,
+    "tema": 4,
+    "pregunta": "16. ¿Las normas internas de un coto de caza podrá contradecir lo que dice la Orden General de Vedas (OGV)?",
+    "opciones": [
+      "a) Nunca, solo podrá restringir aún más lo que indica la OGV, por ejemplo cazando menos días.",
+      "b) Nunca, solo podrá restringir aún más lo que indica la OGV, por ejemplo cazando más días.",
+      "c) Nunca.",
+      "d) Si podrá contradecirla el presidente del coto si no le viene bien cazar los días..."
+    ],
+    "correcta": "a) Nunca, solo podrá restringir aún más lo que indica la OGV, por ejemplo cazando menos días.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 92,
+    "tema": 4,
+    "pregunta": "17. Como Andalucía tiene una ley que regula la caza, ¿la Ley de Caza estatal de 1970 sigue vigente?",
+    "opciones": [
+      "a) No, en este caso no está vigente en Andalucía.",
+      "b) Sí, porque está vigente en toda España.",
+      "c) Sí, porque está vigente en toda España y, en este caso, es supletoria a la Ley 8/2003...",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Sí, porque está vigente en toda España y, en este caso, es supletoria a la Ley 8/2003...",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 93,
+    "tema": 4,
+    "pregunta": "18. A partir del 2003, se prohibió cazar en los denominados terrenos libres, ¿por qué?",
+    "opciones": [
+      "a) Porque la Ley 8/2003, clasificó los terrenos en terrenos cinegéticos y no cinegéticos, pudiéndose cazar sólo en los cinegéticos.",
+      "b) Porque ese año lo decidieron los propietarios de esos terrenos.",
+      "c) No se ha prohibido cazar en terrenos libres, se sigue cazando en ellos.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "a) Porque la Ley 8/2003, clasificó los terrenos en terrenos cinegéticos y no cinegéticos, pudiéndose cazar sólo en los cinegéticos.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 94,
+    "tema": 4,
+    "pregunta": "19. La Ley 8/2003, 28 octubre, Flora y Fauna Silvestre en su Anexo I regula:",
+    "opciones": ["a) Métodos de captura prohibidos.", "b) Listado de especies objeto de caza.", "c) Las modalidades de caza.", "d) Ninguna es correcta."],
+    "correcta": "a) Métodos de captura prohibidos.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 95,
+    "tema": 4,
+    "pregunta": "20. La Ley 8/2003, 28 octubre, Flora y Fauna Silvestre en su Anexo III regula:",
+    "opciones": ["a) Métodos de captura prohibidos.", "b) Listado de especies objeto de caza.", "c) Las modalidades de caza.", "d) Ninguna es correcta."],
+    "correcta": "b) Listado de especies objeto de caza.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 96,
+    "tema": 4,
+    "pregunta": "21. ¿Qué norma establece las diferentes infracciones?",
+    "opciones": ["a) La Ley 8/2003, 28 octubre.", "b) El Decreto 126/2017, 25 julio.", "c) Ambas normas.", "d) Ninguna."],
+    "correcta": "a) La Ley 8/2003, 28 octubre.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 97,
+    "tema": 4,
+    "pregunta": "22. Las infracciones se clasifican en:",
+    "opciones": ["a) Muy Graves.", "b) Graves.", "c) Leves.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 98,
+    "tema": 4,
+    "pregunta": "23. ¿Qué rango normativo indica cómo se debe señalizar un coto de caza?",
+    "opciones": ["a) Una Ley.", "b) Un Decreto.", "c) Una Orden.", "d) Una Resolución."],
+    "correcta": "c) Una Orden.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 99,
+    "tema": 4,
+    "pregunta": "24. ¿Qué rango normativo tiene la Orden General de Vedas?",
+    "opciones": ["a) Una Ley.", "b) Un Decreto.", "c) Una Orden.", "d) Una Resolución."],
+    "correcta": "c) Una Orden.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 100,
+    "tema": 4,
+    "pregunta": "25. ¿Qué rango normativo tiene el Reglamento de Ordenación de la Caza en Andalucía?",
+    "opciones": ["a) Una Ley.", "b) Un Decreto.", "c) Una Orden.", "d) Una Resolución."],
+    "correcta": "b) Un Decreto.",
+    "explicacion": "Cuestionario Tema 4."
+  },
+  {
+    "id": 101,
+    "tema": 5,
+    "pregunta": "1. ¿Qué es un/a cazador/a?:",
+    "opciones": [
+      "a) Es la persona que practica la caza reuniendo los requisitos legales para ello.",
+      "b) Es toda aquella persona que coge un arma y sale a abatir piezas de caza.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Es la persona que practica la caza reuniendo los requisitos legales para ello.",
+    "explicacion": "Tema 5 - Pregunta 1"
+  },
+  {
+    "id": 102,
+    "tema": 5,
+    "pregunta": "2. ¿Quién no se considera cazador/a a efectos legales?",
+    "opciones": [
+      "a) Toda persona cazadora que regresa sin ninguna pieza.",
+      "b) Secretarios, ojeadores o batidores sin portar armas de fuego, excepto en las modalidades de \"liebre con galgo\" y \"a diente en mano\".",
+      "c) Toda persona que cace sin armas de fuego.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "b) Secretarios, ojeadores o batidores sin portar armas de fuego, excepto en las modalidades de \"liebre con galgo\" y \"a diente en mano\".",
+    "explicacion": "Tema 5 - Pregunta 2"
+  },
+  {
+    "id": 103,
+    "tema": 5,
+    "pregunta": "3. ¿A partir de qué edad una persona puede habilitarse como cazador/a?",
+    "opciones": [
+      "a) A partir de los 18 años.",
+      "b) A partir de los 16 años.",
+      "c) A partir de los 14 años.",
+      "d) A partir de la mayoría de edad."
+    ],
+    "correcta": "c) A partir de los 14 años.",
+    "explicacion": "Tema 5 - Pregunta 3"
+  },
+  {
+    "id": 104,
+    "tema": 5,
+    "pregunta": "4. Para habilitarse una persona como cazadora, necesita una acreditación de aptitud y conocimientos que se llevará a cabo mediante:",
+    "opciones": [
+      "a) Un examen convocado por la Delegación territorial de la Consejería competente en materia de caza.",
+      "b) Un curso a través de entidades homologadas por la Consejería competente en materia de caza.",
+      "c) Un examen convocado por la Guardia Civil.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 5 - Pregunta 4"
+  },
+  {
+    "id": 105,
+    "tema": 5,
+    "pregunta": "5. ¿Cuántas horas lectivas como mínimo tiene que tener el curso que acredita la aptitud y conocimientos para obtener la licencia de caza?",
+    "opciones": [
+      "a) 24 horas lectivas.",
+      "b) 40 horas lectivas.",
+      "c) 72 horas lectivas.",
+      "d) 36 horas lectivas."
+    ],
+    "correcta": "a) 24 horas lectivas.",
+    "explicacion": "Tema 5 - Pregunta 5"
+  },
+  {
+    "id": 106,
+    "tema": 5,
+    "pregunta": "6. Una vez que la persona ha superado el examen del cazador o curso del cazador:",
+    "opciones": [
+      "a) Quedará inscrito en el Registro Andaluz de Caza y Pesca, sección Caza y Pesca.",
+      "b) Quedará inscrito en el Registro Andaluz de Caza y Pesca, sección Caza.",
+      "c) Obtendrá un Número de Inscripción Registral (NIR), con el cual ya podrá expedir la licencia de caza.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 5 - Pregunta 6"
+  },
+  {
+    "id": 107,
+    "tema": 5,
+    "pregunta": "7. Una persona cuando practique la actividad de la caza, deberá:",
+    "opciones": [
+      "a) Tener toda la documentación que legalmente se establezca en vigor.",
+      "b) Llevar consigo toda la documentación que legalmente se establezca.",
+      "c) Ambas respuestas son correctas.",
+      "d) Ninguna respuesta es correcta."
+    ],
+    "correcta": "c) Ambas respuestas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 7"
+  },
+  {
+    "id": 108,
+    "tema": 5,
+    "pregunta": "8. ¿Qué es la licencia de caza?",
+    "opciones": [
+      "a) Es un documento nominal e intransferible obligatorio para poder cazar.",
+      "b) Hay que pagar una tasa.",
+      "c) La expide la Delegación Territorial de la Consejería competente en materia de caza.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 8"
+  },
+  {
+    "id": 109,
+    "tema": 5,
+    "pregunta": "9. ¿Para cuánto tiempo se puede expedir la licencia de caza?",
+    "opciones": [
+      "a) Para 1, 3 o 5 años.",
+      "b) Para 1, 2 o 5 años.",
+      "c) Para mayores de 65 años la expiden para 5 años y de manera gratuita.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 5 - Pregunta 9"
+  },
+  {
+    "id": 110,
+    "tema": 5,
+    "pregunta": "10. Un menor de edad mayor de 14 años y menor de 18 años para poder hacer el examen o curso del cazador y, posteriormente poder cazar, deberá:",
+    "opciones": [
+      "a) Aportar una autorización paterna / materna o del tutor legal.",
+      "b) Tener como mínimo acabada la ESO.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Aportar una autorización paterna / materna o del tutor legal.",
+    "explicacion": "Tema 5 - Pregunta 10"
+  },
+  {
+    "id": 111,
+    "tema": 5,
+    "pregunta": "11. Clases de licencia de caza:",
+    "opciones": [
+      "a) Licencia A, B, y C",
+      "b) Licencia A, para cazar con procedimiento autorizado, incluso armas de fuego.",
+      "c) Licencia C es complementaria a la A o B.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 11"
+  },
+  {
+    "id": 112,
+    "tema": 5,
+    "pregunta": "12. La licencia de caza de clase B sirve para poder cazar:",
+    "opciones": [
+      "a) Conejo \"a diente en mano\".",
+      "b) Liebre mediante \"liebre con galgo\".",
+      "c) Modalidades que no empleen armas de fuego.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "correcta": "d) Todas las respuestas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 12"
+  },
+  {
+    "id": 113,
+    "tema": 5,
+    "pregunta": "13. Tipos de licencia de clase C.",
+    "opciones": [
+      "a) C1 para cazar con cetrería.",
+      "b) C2 para cazar con perdiz con reclamo.",
+      "c) C4 para cazar con rehala.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 13"
+  },
+  {
+    "id": 114,
+    "tema": 5,
+    "pregunta": "14. ¿Cuándo hay que pagar el Recargo en la licencia de caza?",
+    "opciones": [
+      "a) Para la caza mayor.",
+      "b) Para la perdiz en ojeo y caza de acuáticas.",
+      "c) Para la cetrería.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 5 - Pregunta 14"
+  },
+  {
+    "id": 115,
+    "tema": 5,
+    "pregunta": "15. Una persona con licencia de caza de Madrid quiere cazar en Andalucía, ¿Qué debe hacer para obtener el NIR?",
+    "opciones": [
+      "a) Homologar la licencia de caza de Andalucía.",
+      "b) Solicitar una autorización excepcional para poder cazar durante 15 días.",
+      "c) Nada, con la licencia de caza de Madrid puede cazar en Andalucía.",
+      "d) No pueden cazar en Andalucía personas de fuera."
+    ],
+    "correcta": "a) Homologar la licencia de caza de Andalucía.",
+    "explicacion": "Tema 5 - Pregunta 15"
+  },
+  {
+    "id": 116,
+    "tema": 5,
+    "pregunta": "16. Una persona con licencia de caza de Cataluña quiere cazar en Andalucía, ¿Qué debe hacer?",
+    "opciones": [
+      "a) Homologar la licencia de caza de Andalucía.",
+      "b) Solicitar una autorización excepcional para poder cazar durante 15 días.",
+      "c) Hacer examen o curso del cazador.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 5 - Pregunta 16"
+  },
+  {
+    "id": 117,
+    "tema": 5,
+    "pregunta": "17. Tipos de licencias de armas para cazar:",
+    "opciones": [
+      "a) E, para emplear armas largas de ánima lisa (escopetas) y ballestas.",
+      "b) D, para emplear armas largas rayadas (rifles) y cañones estriados.",
+      "c) C, para emplear armas cortas.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 5 - Pregunta 17"
+  },
+  {
+    "id": 118,
+    "tema": 5,
+    "pregunta": "18. ¿Una persona cazadores entre 14 y 18 años podrá tener licencia de armas?:",
+    "opciones": [
+      "a) Sí, siempre y cuando tenga licencia de caza.",
+      "b) Sí, si está emancipado.",
+      "c) No, sólo podrá tener una autorización especial de menores para el uso de armas siempre y cuando le acompañe un mayor de edad con la licencia de armas correspondiente para la categoría de esa arma.",
+      "d) Nunca podrá usar un arma siendo menor de edad."
+    ],
+    "correcta": "c) No, sólo podrá tener una autorización especial de menores para el uso de armas siempre y cuando le acompañe un mayor de edad con la licencia de armas correspondiente para la categoría de esa arma.",
+    "explicacion": "Tema 5 - Pregunta 18"
+  },
+  {
+    "id": 119,
+    "tema": 5,
+    "pregunta": "19. ¿Qué documento deberá acompañar siempre a un arma?:",
+    "opciones": [
+      "a) La guía de pertenencia del arma.",
+      "b) La factura de compra.",
+      "c) La licencia de armas.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "a) La guía de pertenencia del arma.",
+    "explicacion": "Tema 5 - Pregunta 19"
+  },
+  {
+    "id": 120,
+    "tema": 5,
+    "pregunta": "20. ¿Cuándo hay que tener un seguro de responsabilidad civil obligatorio del cazador?:",
+    "opciones": [
+      "a) Siempre que se practique la caza.",
+      "b) Cuando se caza con armas de fuego.",
+      "c) Cuando se caza sin armas de fuego, excepto cuando se hace con arco y ballestas.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "b) Cuando se caza con armas de fuego.",
+    "explicacion": "Tema 5 - Pregunta 20"
+  },
+  {
+    "id": 121,
+    "tema": 5,
+    "pregunta": "21. La vigencia de una póliza de seguro de responsabilidad civil obligatorio del cazador es de:",
+    "opciones": [
+      "a) 1, 3 o 5 años.",
+      "b) Anual.",
+      "c) El tiempo que se contrate.",
+      "d) Indefinido."
+    ],
+    "correcta": "b) Anual.",
+    "explicacion": "Tema 5 - Pregunta 21"
+  },
+  {
+    "id": 122,
+    "tema": 5,
+    "pregunta": "22. ¿Quién autorizará por escrito a cazar en un coto de caza?:",
+    "opciones": [
+      "a) El titular del coto de caza.",
+      "b) El presidente de la sociedad de cazadores, la cual es titular del coto de caza.",
+      "c) El propietario del terreno cinegético aunque no sea el titular del coto.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 5 - Pregunta 22"
+  },
+  {
+    "id": 123,
+    "tema": 5,
+    "pregunta": "23. ¿Qué es la tarjeta federativa?:",
+    "opciones": [
+      "a) Es el documento que acredita a todo cazador federado.",
+      "b) Es un seguro de daños propios del cazador mientras practica la caza.",
+      "c) Es un documento obligatorio para cazar en cotos deportivos de caza, cotos cuyo titular sea una entidad deportiva federada o para participar en campeonatos deportivos de caza.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "correcta": "d) Todas las respuestas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 23"
+  },
+  {
+    "id": 124,
+    "tema": 5,
+    "pregunta": "24. El Documento Único es:",
+    "opciones": [
+      "a) El documento federativo que incluye la tarjeta federativa + seguro de responsabilidad civil obligatoria y voluntaria del cazador.",
+      "b) Existen varios tipos de documentos únicos, dependiendo de las coberturas de seguros voluntarios que se desee contratar.",
+      "c) Es el documento que incluye la licencia de caza + la tarjeta federativa + seguro de responsabilidad civil obligatoria y voluntaria del cazador.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 5 - Pregunta 24"
+  },
+  {
+    "id": 125,
+    "tema": 5,
+    "pregunta": "25. ¿Qué documentación mínima deberá llevar un cazador cuando sale a cazar?:",
+    "opciones": [
+      "a) DNI y licencia de caza siempre.",
+      "b) Si se emplean armas: licencia de armas, guía de pertenencia del arma y seguro de R.C. del cazador.",
+      "c) Autorización escrita del titular del coto de caza para poder cazar.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 5 - Pregunta 25"
+  },
+  {
+    "id": 126,
+    "tema": 6,
+    "pregunta": "1. ¿Qué son los terrenos cinegéticos?:",
+    "opciones": [
+      "a) Aquellos donde se puede cazar.",
+      "b) Aquellos donde hay caza.",
+      "c) Aquellos donde no se puede cazar.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Aquellos donde se puede cazar.",
+    "explicacion": "Definición legal de terreno cinegético."
+  },
+  {
+    "id": 127,
+    "tema": 6,
+    "pregunta": "2. ¿Cuáles son los terrenos cinegéticos?:",
+    "opciones": [
+      "a) Cotos de caza.",
+      "b) Reservas andaluzas de caza.",
+      "c) Zonas de caza controlada.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Clasificación de los terrenos donde está permitido el aprovechamiento."
+  },
+  {
+    "id": 128,
+    "tema": 6,
+    "pregunta": "3. ¿Cuáles son los terrenos no cinegéticos?:",
+    "opciones": [
+      "a) Terrenos que no están dentro de un coto.",
+      "b) Reserva natural.",
+      "c) Coto privado de caza.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Terrenos donde la actividad cinegética está prohibida de forma general."
+  },
+  {
+    "id": 129,
+    "tema": 6,
+    "pregunta": "4. Tipos de cotos de caza:",
+    "opciones": [
+      "a) Privados.",
+      "b) Deportivos.",
+      "c) Intensivos.",
+      "d) Todos los anteriores."
+    ],
+    "correcta": "d) Todos los anteriores.",
+    "explicacion": "Diferentes regímenes de aprovechamiento de los cotos."
+  },
+  {
+    "id": 130,
+    "tema": 6,
+    "pregunta": "5. Para poder cazar en los terrenos cinegéticos es necesario:",
+    "opciones": [
+      "a) Tener aprobado un plan técnico de caza.",
+      "b) Tener autorización escrita del titular del terreno cinegético.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Ambas son correctas.",
+    "explicacion": "Requisitos administrativos y de propiedad para el ejercicio de la caza."
+  },
+  {
+    "id": 131,
+    "tema": 6,
+    "pregunta": "6. Un coto privado de caza tendrá una superficie mínima de:",
+    "opciones": [
+      "a) 250 has. si el aprovechamiento principal es la caza menor.",
+      "b) 250 has. si el aprovechamiento principal es la caza mayor.",
+      "c) 500 has. si el aprovechamiento principal es la caza mayor.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Límites de superficie según el tipo de aprovechamiento en cotos privados."
+  },
+  {
+    "id": 132,
+    "tema": 6,
+    "pregunta": "7. Un coto deportivo de caza tendrá una superficie mínima de:",
+    "opciones": [
+      "a) 500 has. si el aprovechamiento principal es la caza menor.",
+      "b) 1.000 has. si el aprovechamiento principal es la caza mayor.",
+      "c) 500 has. si el aprovechamiento principal es la caza mayor.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) 500 has. si el aprovechamiento principal es la caza mayor.",
+    "explicacion": "Superficie mínima para cotos deportivos de caza mayor."
+  },
+  {
+    "id": 133,
+    "tema": 6,
+    "pregunta": "8. Los cotos de caza tienen obligación de dejar mínimo un porcentaje de zona de reserva para la preservación y fomento de la caza, ¿Cuál cifra es?:",
+    "opciones": [
+      "a) Mínimo 5% en todos los casos.",
+      "b) Mínimo 5% en cotos privados y deportivos y un 15% en cotos intensivos.",
+      "c) Máximo 5% en cotos privados y deportivos y un 15% en cotos intensivos.",
+      "d) El porcentaje que el titular estime oportuno."
+    ],
+    "correcta": "b) Mínimo 5% en cotos privados y deportivos y un 15% en cotos intensivos.",
+    "explicacion": "Zonas obligatorias de no caza para favorecer la cría."
+  },
+  {
+    "id": 134,
+    "tema": 6,
+    "pregunta": "9. Tipos de escenarios de caza:",
+    "opciones": [
+      "a) Escenario de caza deportiva.",
+      "b) Escenario de caza para adiestramiento y entrenamiento de perros de caza y/o aves cetrería.",
+      "c) Escenario de caza para modalidades de caza.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "correcta": "d) Todas las respuestas son correctas.",
+    "explicacion": "Zonas habilitadas para fines específicos dentro o fuera de los cotos."
+  },
+  {
+    "id": 135,
+    "tema": 6,
+    "pregunta": "10. En un coto de caza, ¿cuántos escenarios de caza puede haber?:",
+    "opciones": [
+      "a) Sólo 1 de cada tipo.",
+      "b) Sólo 1 en total, sea el tipo que sea.",
+      "c) Sólo 2.",
+      "d) 1 de caza deportiva y 1 de adiestramiento."
+    ],
+    "correcta": "b) Sólo 1 en total, sea el tipo que sea.",
+    "explicacion": "Limitación administrativa por coto."
+  },
+  {
+    "id": 136,
+    "tema": 6,
+    "pregunta": "11. ¿Cuándo no se considera granja cinegética unas instalaciones de cría de perdiz roja?:",
+    "opciones": [
+      "a) Cuando el fin sea la repoblación del propio coto.",
+      "b) Cuando su superficie máxima sea de 1.000 m2.",
+      "c) Debe considerarse granja cinegética en todos los casos.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Exenciones para instalaciones de autoconsumo en cotos."
+  },
+  {
+    "id": 137,
+    "tema": 6,
+    "pregunta": "12. Estas instalaciones, que no se consideran granja cinegética, no tienen que estar aprobado en el plan técnico del caza (PTC):",
+    "opciones": [
+      "a) Falso, tanto estas instalaciones como las granjas cinegéticas deben estar aprobadas en el PTC.",
+      "b) Verdadero.",
+      "c) Verdadero, solo debe estar contemplado en el PTC las granjas cinegéticas.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "a) Falso, tanto estas instalaciones como las granjas cinegéticas deben estar aprobadas en el PTC.",
+    "explicacion": "Toda instalación de cría debe figurar en el plan de gestión."
+  },
+  {
+    "id": 138,
+    "tema": 6,
+    "pregunta": "13. Un cercado cinegético de gestión es aquel que:",
+    "opciones": [
+      "a) Rodea todo el perímetro del coto de caza mayor.",
+      "b) La altura de la malla oscila entre 1,40 metros mínimo y 2,10 metros máximo.",
+      "c) La superficie mínima del coto debe ser 2.000 has.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Características técnicas de los cerramientos de gestión."
+  },
+  {
+    "id": 139,
+    "tema": 6,
+    "pregunta": "14. La distancia de seguridad a un cortijo situado dentro del coto es de:",
+    "opciones": [
+      "a) 250 metros.",
+      "b) 110 metros.",
+      "c) 100 metros.",
+      "d) 50 metros."
+    ],
+    "correcta": "c) 100 metros.",
+    "explicacion": "Distancia mínima para disparar cerca de edificaciones habitadas."
+  },
+  {
+    "id": 140,
+    "tema": 6,
+    "pregunta": "15. La distancia de seguridad a un pueblo situado junto al coto es de:",
+    "opciones": [
+      "a) 250 metros.",
+      "b) 110 metros.",
+      "c) 100 metros.",
+      "d) 50 metros."
+    ],
+    "correcta": "a) 250 metros.",
+    "explicacion": "Zona de seguridad ampliada para núcleos urbanos."
+  },
+  {
+    "id": 141,
+    "tema": 6,
+    "pregunta": "16. Una zona de seguridad es:",
+    "opciones": [
+      "a) Es aquella donde hay que tomar medidas precautorias especiales para garantizar la integridad física de las personas y sus bienes.",
+      "b) Es aquella donde está prohibido el uso de armas de fuego, arcos y ballestas.",
+      "c) La a y b son correctas.",
+      "d) Es una zona donde hay que tener cuidado para no caerse."
+    ],
+    "correcta": "c) La a y b son correctas.",
+    "explicacion": "Definición y prohibiciones en zonas de seguridad."
+  },
+  {
+    "id": 142,
+    "tema": 6,
+    "pregunta": "17. La distancia de seguridad a una autovía es de:",
+    "opciones": [
+      "a) 250 metros.",
+      "b) 110 metros.",
+      "c) 100 metros.",
+      "d) 25 metros."
+    ],
+    "correcta": "d) 25 metros.",
+    "explicacion": "Distancia desde el límite de la zona de dominio público."
+  },
+  {
+    "id": 143,
+    "tema": 6,
+    "pregunta": "18. La distancia de seguridad a una vía verde es de:",
+    "opciones": [
+      "a) 250 metros, al considerarse zona recreativa.",
+      "b) 110 metros.",
+      "c) 100 metros.",
+      "d) 25 metros."
+    ],
+    "correcta": "a) 250 metros, al considerarse zona recreativa.",
+    "explicacion": "Protección especial para vías de uso recreativo frecuente."
+  },
+  {
+    "id": 144,
+    "tema": 6,
+    "pregunta": "19. En una zona de seguridad, ni se puede usar armas de fuego dentro ni disparar hacia ella a una distancia de:",
+    "opciones": [
+      "a) La establecida en cada caso.",
+      "b) 100 metros.",
+      "c) A una distancia que el proyectil no caiga dentro o cuando haya un obstáculo entre nuestra posición y esa zona de seguridad que evite la llegada del proyectil.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "c) A una distancia que el proyectil no caiga dentro o cuando haya un obstáculo entre nuestra posición y esa zona de seguridad que evite la llegada del proyectil.",
+    "explicacion": "Regla de prevención de alcance de proyectiles."
+  },
+  {
+    "id": 145,
+    "tema": 6,
+    "pregunta": "20. ¿Qué diferencias hay entre zonas de reserva y zonas de seguridad?:",
+    "opciones": [
+      "a) Las zonas de reserva están presentes obligatoriamente en todos los cotos, en cambio, las zonas de seguridad pueden existir o no.",
+      "b) En las zonas de seguridad se puede cazar sin armas, siempre y cuando no haya peligro para las personas y sus bienes, en cambio, en la zona de reserva no se puede cazar nunca.",
+      "c) No se puede disparar hacia zonas de seguridad, en cambio, hacia zonas de reserva no hay prohibición al respecto.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Diferencias conceptuales y operativas entre ambos tipos de zonas."
+  },
+  {
+    "id": 146,
+    "tema": 6,
+    "pregunta": "21. ¿Es obligatoria la señalización de los terrenos cinegéticos?",
+    "opciones": [
+      "a) Siempre, en un plazo máximo de 1 mes desde la creación del coto de caza.",
+      "b) No es obligatoria, es opcional y recomendable.",
+      "c) Es recomendable para que nadie se equivoque de coto.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Siempre, en un plazo máximo de 1 mes desde la creación del coto de caza.",
+    "explicacion": "Obligatoriedad legal de marcar los límites del coto."
+  },
+  {
+    "id": 147,
+    "tema": 6,
+    "pregunta": "22. Tipos de señalización:",
+    "opciones": [
+      "a) De primer orden, que indicará la matrícula del coto y la reseña de la zona.",
+      "b) De segundo orden, que complementará a las de primer orden.",
+      "c) De segundo orden, que indicará la matrícula del coto y reseña de la zona.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Jerarquía y contenido de las tablillas de señalización."
+  },
+  {
+    "id": 148,
+    "tema": 6,
+    "pregunta": "23. ¿Dónde hay que colocar la señalización?:",
+    "opciones": [
+      "a) Las de primer orden, cada 600 metros máximo y siempre en la entrada de vías de acceso, perímetro del coto, intersecciones.",
+      "b) Las de segundo orden cada 100 metros máximo y siempre que el observador vea las dos tablillas más próximas.",
+      "c) La a y b son correctas.",
+      "d) La distancia es indiferente."
+    ],
+    "correcta": "c) La a y b son correctas.",
+    "explicacion": "Normas de visibilidad y ubicación de las señales cinegéticas."
+  },
+  {
+    "id": 149,
+    "tema": 6,
+    "pregunta": "24. En nuestro coto, tenemos un arroyo que pasa por toda la comarca:",
+    "opciones": [
+      "a) Se podrá cazar dentro del mismo siempre, sin restricciones.",
+      "b) Si el arroyo es lindero, no se podrá cazar y tendremos que dejar una zona de seguridad de 5 metros.",
+      "c) Si el arroyo atraviesa el coto, podremos cazar dentro siempre que el titular del coto declare en el PTC que no hay peligro para personas, ganado o bienes.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Regulación de la caza en cauces fluviales y zonas de dominio público."
+  },
+  {
+    "id": 150,
+    "tema": 6,
+    "pregunta": "25. Cuando se crea un coto de caza, ese coto es para siempre:",
+    "opciones": [
+      "a) Verdadero.",
+      "b) Falso, se podrá suspender o extinguir su actividad por diferentes razones o incumplimiento de las normas.",
+      "c) Verdadero, porque aunque el presidente de la sociedad de cazadores cambie, el coto siempre seguirá ahí.",
+      "d) Falso, un coto tienen una vigencia de 25 años."
+    ],
+    "correcta": "b) Falso, se podrá suspender o extinguir su actividad por diferentes razones o incumplimiento de las normas.",
+    "explicacion": "Causas de extinción o revocación de la titularidad del coto."
+  },
+  {
+    "id": 151, "tema": 7,
+    "pregunta": "1. ¿Cuáles son los órganos y entidades con competencia en caza en Andalucía?:",
+    "opciones": ["a) Órganos administrativos públicos.", "b) Entidades privadas con finalidad pública.", "c) Entidades privadas.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 1"
+  },
+  {
+    "id": 152, "tema": 7,
+    "pregunta": "2. La Consejería competente en materia de medio ambiente y caza es:",
+    "opciones": ["a) Una entidad privada con finalidad pública.", "b) Un órgano administrativo público.", "c) Una entidad privada.", "d) La a y c son correctas."],
+    "correcta": "b) Un órgano administrativo público.",
+    "explicacion": "Tema 7 - Pregunta 2"
+  },
+  {
+    "id": 153, "tema": 7,
+    "pregunta": "3. La Federación Andaluza de Caza (FAC) es:",
+    "opciones": ["a) Una entidad privada con finalidad pública.", "b) Un órgano administrativo público.", "c) Una entidad privada.", "d) La a y c son correctas."],
+    "correcta": "a) Una entidad privada con finalidad pública.",
+    "explicacion": "Tema 7 - Pregunta 3"
+  },
+  {
+    "id": 154, "tema": 7,
+    "pregunta": "4. Un Sociedad Deportiva de Cazadores es:",
+    "opciones": ["a) Una entidad privada con finalidad pública.", "b) Un órgano administrativo público.", "c) Una entidad privada.", "d) La a y c son correctas."],
+    "correcta": "c) Una entidad privada.",
+    "explicacion": "Tema 7 - Pregunta 4"
+  },
+  {
+    "id": 155, "tema": 7,
+    "pregunta": "5. ¿Cuántas delegaciones territoriales existen de la Consejería competente en materia de caza?:",
+    "opciones": ["a) 1, y su sede está en la capital de Andalucía.", "b) 8, una por provincia andaluza.", "c) 16, dos por provincia andaluza.", "d) 10, una por provincia andaluza + Ceuta y Melilla."],
+    "correcta": "b) 8, una por provincia andaluza.",
+    "explicacion": "Tema 7 - Pregunta 5"
+  },
+  {
+    "id": 156, "tema": 7,
+    "pregunta": "6. ¿Cuántos Consejos Andaluces de Biodiversidad existen en Andalucía?:",
+    "opciones": ["a) 1, y su sede está en la capital de Andalucía.", "b) 8, una por provincia andaluza.", "c) 16, dos por provincia andaluza.", "d) 10, una por provincia andaluza + Ceuta y Melilla."],
+    "correcta": "a) 1, y su sede está en la capital de Andalucía.",
+    "explicacion": "Tema 7 - Pregunta 6"
+  },
+  {
+    "id": 157, "tema": 7,
+    "pregunta": "7. ¿Cuántos Consejos Provinciales de Medio Ambiente y Biodiversidad existen en Andalucía?:",
+    "opciones": ["a) 1, y su sede está en la capital de Andalucía.", "b) 8, una por provincia andaluza.", "c) 16, dos por provincia andaluza.", "d) 10, una por provincia andaluza + Ceuta y Melilla."],
+    "correcta": "b) 8, una por provincia andaluza.",
+    "explicacion": "Tema 7 - Pregunta 7"
+  },
+  {
+    "id": 158, "tema": 7,
+    "pregunta": "8. ¿Cuántas delegaciones provinciales existen de la Federación Andaluza de Caza?:",
+    "opciones": ["a) 1, y su sede está en la capital de Andalucía.", "b) 8, una por provincia andaluza.", "c) 16, dos por provincia andaluza.", "d) 10, una por provincia andaluza + Ceuta y Melilla."],
+    "correcta": "b) 8, una por provincia andaluza.",
+    "explicacion": "Tema 7 - Pregunta 8"
+  },
+  {
+    "id": 159, "tema": 7,
+    "pregunta": "9. La sede central de la Federación Andaluza de Caza se encuentra en:",
+    "opciones": ["a) Antequera.", "b) Sevilla.", "c) Archidona.", "d) Córdoba."],
+    "correcta": "c) Archidona.",
+    "explicacion": "Tema 7 - Pregunta 9"
+  },
+  {
+    "id": 160, "tema": 7,
+    "pregunta": "10. ¿Actualmente el ICONA y el IARA existen?:",
+    "opciones": ["a) Sí, son los órganos públicos competentes...", "b) No, son los órganos públicos históricos del pasado...", "c) Sí, pero no en Andalucía.", "d) Todas son correctas."],
+    "correcta": "b) No, son los órganos públicos históricos del pasado...",
+    "explicacion": "Tema 7 - Pregunta 10"
+  },
+  {
+    "id": 161, "tema": 7,
+    "pregunta": "11. ¿Cuál es el órgano administrativo con competencias en materia de medio ambiente y caza en Andalucía?:",
+    "opciones": ["a) El ICONA y el IARA.", "b) La Consejería competente en materia de medio ambiente y caza.", "c) La Guardia Civil.", "d) El SEPRONA de la Guardia Civil."],
+    "correcta": "b) La Consejería competente en materia de medio ambiente y caza.",
+    "explicacion": "Tema 7 - Pregunta 11"
+  },
+  {
+    "id": 162, "tema": 7,
+    "pregunta": "12. Los órganos consultivos y asesoramiento son:",
+    "opciones": ["a) Consejo Andaluz de Biodiversidad.", "b) Consejo Provincial de Medio Ambiente y Biodiversidad.", "c) Juntas Rectoras de los Parques Naturales.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 12"
+  },
+  {
+    "id": 163, "tema": 7,
+    "pregunta": "13. Fomentar la caza deportiva, promover competiciones... son fines de:",
+    "opciones": ["a) La Consejería competente en materia de caza.", "b) La Federación Andaluza de Caza.", "c) La Sociedad Deportiva de Cazadores.", "d) La Consejería competente en materia de medio ambiente y caza."],
+    "correcta": "b) La Federación Andaluza de Caza.",
+    "explicacion": "Tema 7 - Pregunta 13"
+  },
+  {
+    "id": 164, "tema": 7,
+    "pregunta": "14. Son entidades privadas:",
+    "opciones": ["a) Asociación de Jóvenes Cazadores Andaluces (JOCAN).", "b) La Consejería competente en materia de medio ambiente y caza.", "c) Asociaciones / Sociedades / Club de cazadores.", "d) La a y c son correctas."],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 7 - Pregunta 14"
+  },
+  {
+    "id": 165, "tema": 7,
+    "pregunta": "15. ¿Es obligatorio estar federado para poder cazar en Andalucía?",
+    "opciones": ["a) Sí, siempre.", "b) Sí, siempre que se cace en cotos deportivos... o participar en competiciones.", "c) No, aunque es recomendable...", "d) La b y c son correctas."],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 7 - Pregunta 15"
+  },
+  {
+    "id": 166, "tema": 7,
+    "pregunta": "16. Si eres cazador federado, tendrás de ventajas:",
+    "opciones": ["a) Poder participar en campeonatos deportivos...", "b) Asesoramiento jurídico-técnico gratuito.", "c) Disponer de un seguro de daños propios...", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 16"
+  },
+  {
+    "id": 167, "tema": 7,
+    "pregunta": "17. Una sociedad de cazadores federada tendrá de ventajas:",
+    "opciones": ["a) Asesoramiento jurídico íntegro gratuito.", "b) Asesoramiento técnico íntegro gratuito.", "c) Asesoramiento laboral y fiscal gratuito.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 17"
+  },
+  {
+    "id": 168, "tema": 7,
+    "pregunta": "18. ¿Qué es la Comisión de Homologación de Trofeos de Caza en Andalucía?:",
+    "opciones": ["a) Comisión donde se muestran los mejores trofeos.", "b) Es un museo de trofeos.", "c) Comisión formada por jueces homologadores autorizados...", "d) La a y b son correctas."],
+    "correcta": "c) Comisión formada por jueces homologadores autorizados...",
+    "explicacion": "Tema 7 - Pregunta 18"
+  },
+  {
+    "id": 169, "tema": 7,
+    "pregunta": "19. Las funciones de la Comisión de Homologación de Trofeos... son:",
+    "opciones": ["a) Homologación oficial de trofeos de caza de Andalucía.", "b) Homologación oficial de trofeos procedentes de otras CCAA.", "c) Expedir certificados de la mención y otorgamiento de medalla.", "d) Todas las respuestas son correctas."],
+    "correcta": "d) Todas las respuestas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 19"
+  },
+  {
+    "id": 170, "tema": 7,
+    "pregunta": "20. La homologación de trofeos de caza es un servicio gratuito:",
+    "opciones": ["a) Verdadero.", "b) Falso, hay que pagar una tasa en función de la medición.", "c) Falso, hay que pagar una tasa fija... al solicitar la homologación.", "d) Verdadero, es subvencionable."],
+    "correcta": "c) Falso, hay que pagar una tasa fija...",
+    "explicacion": "Tema 7 - Pregunta 20"
+  },
+  {
+    "id": 171, "tema": 7,
+    "pregunta": "21. Los trofeos, en función de su puntuación, se catalogan como:",
+    "opciones": ["a) Medalla de Oro.", "b) Medalla de Plata.", "c) Medalla de Bronce.", "d) Todas son correctas."],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 7 - Pregunta 21"
+  },
+  {
+    "id": 172, "tema": 7,
+    "pregunta": "22. Son trofeos de caza en Andalucía:",
+    "opciones": ["a) La cabeza del zorro y colmillos de jabalí.", "b) Los desmogues.", "c) Los adheridos al cráneo... para ciervo, gamo, corzo, cabra montés, muflón o arruí.", "d) La a y c son correctas."],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 7 - Pregunta 22"
+  },
+  {
+    "id": 173, "tema": 7,
+    "pregunta": "23. Los agentes de la autoridad con competencia en medio ambiente y caza en Andalucía son:",
+    "opciones": ["a) Sólo SEPRONA de la Guardia Civil.", "b) Agentes de Medio Ambiente, Guardia Civil (SEPRONA), Agentes Forestales del Estado y Policía Autonómica.", "c) Sólo Agentes de Medio Ambiente.", "d) La a y c son correctas."],
+    "correcta": "b) Agentes de Medio Ambiente, Guardia Civil (SEPRONA)...",
+    "explicacion": "Tema 7 - Pregunta 23"
+  },
+  {
+    "id": 174, "tema": 7,
+    "pregunta": "24. Los auxiliares de la autoridad con competencia en medio ambiente y caza son:",
+    "opciones": ["a) A nivel estatal, guarda rural con la especialidad de caza.", "b) A nivel andaluz, guarda de coto de caza.", "c) A nivel estatal y andaluz, guarda rural... y guarda de coto.", "d) La a y b son correctas."],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 7 - Pregunta 24"
+  },
+  {
+    "id": 175, "tema": 7,
+    "pregunta": "25. ¿Quién puede retirar armas de fuego, ante una infracción o delito y conforme está reglamentado?",
+    "opciones": ["a) Sólo Guardia Civil.", "b) Guardia Civil y guarda rural.", "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al artículo 34.4, ley 5/2014...", "d) Tanto agentes de la autoridad como auxiliares de la autoridad."],
+    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza...",
+    "explicacion": "Tema 7 - Pregunta 25. Actualizado con tu nota manuscrita"
+  },
+  {
+    "id": 176,
+    "tema": 8,
+    "pregunta": "1. ¿Quién no interviene en la gestión cinegética de un coto?",
+    "opciones": [
+      "a) La Guardia Civil.",
+      "b) Técnico gestor del coto.",
+      "c) Guarda del coto de caza.",
+      "d) Cazadores del coto."
+    ],
+    "correcta": "a) La Guardia Civil.",
+    "explicacion": "Tema 8 - Pregunta 1"
+  },
+  {
+    "id": 177,
+    "tema": 8,
+    "pregunta": "2. De los siguientes enunciados, indicad cuál es un error tradicional en la caza:",
+    "opciones": [
+      "a) Suponer que la caza es inagotable.",
+      "b) Repoblar sin una planificación adecuada.",
+      "c) Restar importancia a la calidad del hábitat.",
+      "d) Todas las anteriores son errores tradicionales en la caza."
+    ],
+    "correcta": "d) Todas las anteriores son errores tradicionales en la caza.",
+    "explicacion": "Tema 8 - Pregunta 2"
+  },
+  {
+    "id": 178,
+    "tema": 8,
+    "pregunta": "3. Si hay más densidad de caza que capacidad de carga del hábitat:",
+    "opciones": [
+      "a) El coto es pobre en caza y es viable repoblar.",
+      "b) El coto tiene caza en exceso y hay que controlar la población por daños.",
+      "c) El coto está equilibrio, siendo ideal.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "b) El coto tiene caza en exceso y hay que controlar la población por daños.",
+    "explicacion": "Tema 8 - Pregunta 3"
+  },
+  {
+    "id": 179,
+    "tema": 8,
+    "pregunta": "4. Si hay menos densidad de caza que capacidad de carga del hábitat:",
+    "opciones": [
+      "a) El coto es pobre en caza y es viable repoblar.",
+      "b) El coto tiene caza en exceso y hay que controlar la población por daños.",
+      "c) El coto está equilibrio, siendo ideal.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) El coto es pobre en caza y es viable repoblar.",
+    "explicacion": "Tema 8 - Pregunta 4"
+  },
+  {
+    "id": 180,
+    "tema": 8,
+    "pregunta": "5. ¿La esterilidad de los reproductores es un efecto de los productos fitosanitarios?:",
+    "opciones": [
+      "a) Sí, un efecto indirecto.",
+      "b) Sí, un efecto directo.",
+      "c) No, los fitosanitarios no influyen en los animales.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "b) Sí, un efecto directo.",
+    "explicacion": "Tema 8 - Pregunta 5"
+  },
+  {
+    "id": 181,
+    "tema": 8,
+    "pregunta": "6. ¿La disminución de alimento para la caza es un efecto de los productos fitosanitarios?:",
+    "opciones": [
+      "a) Sí, un efecto indirecto.",
+      "b) Sí, un efecto directo.",
+      "c) No, los fitosanitarios no influyen en los animales.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "a) Sí, un efecto indirecto.",
+    "explicacion": "Tema 8 - Pregunta 6"
+  },
+  {
+    "id": 182,
+    "tema": 8,
+    "pregunta": "7. En Andalucía, ¿qué instrumentos de planificación de los recursos cinegéticos existen?",
+    "opciones": [
+      "a) Plan andaluz de caza.",
+      "b) Plan de caza por área cinegética.",
+      "c) Plan técnico de caza.",
+      "d) Todos los anteriores."
+    ],
+    "correcta": "d) Todos los anteriores.",
+    "explicacion": "Tema 8 - Pregunta 7"
+  },
+  {
+    "id": 183,
+    "tema": 8,
+    "pregunta": "8. Tipos de planes técnicos de caza:",
+    "opciones": [
+      "a) Individuales.",
+      "b) Integrados.",
+      "c) Colectivos.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 8 - Pregunta 8"
+  },
+  {
+    "id": 184,
+    "tema": 8,
+    "pregunta": "9. La vigencia de los planes técnicos de caza es de:",
+    "opciones": [
+      "a) 4 temporadas de caza.",
+      "b) 5 temporadas de caza.",
+      "c) 5 años naturales.",
+      "d) 1 temporada de caza."
+    ],
+    "correcta": "b) 5 temporadas de caza.",
+    "explicacion": "Tema 8 - Pregunta 9"
+  },
+  {
+    "id": 185,
+    "tema": 8,
+    "pregunta": "10. Los planes técnicos de caza deben estar firmados por:",
+    "opciones": [
+      "a) El titular del coto que es el que lo solicita.",
+      "b) El técnico competente que es el que lo redacta.",
+      "c) La Guardia Civil de la localidad del coto de caza.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 8 - Pregunta 10"
+  },
+  {
+    "id": 186,
+    "tema": 8,
+    "pregunta": "11. Las memorias anuales de caza se presentan:",
+    "opciones": [
+      "a) Cada 5 temporadas de caza.",
+      "b) Cada año, antes del 15 de junio.",
+      "c) Cada 4 temporadas de caza.",
+      "d) Es voluntario, no es obligatoria presentarla."
+    ],
+    "correcta": "b) Cada año, antes del 15 de junio.",
+    "explicacion": "Tema 8 - Pregunta 11"
+  },
+  {
+    "id": 187,
+    "tema": 8,
+    "pregunta": "12. ¿Qué es un Plan Técnico de Caza (PTC)?:",
+    "opciones": [
+      "a) Es el instrumento de gestión de los terrenos cinegéticos para asegurar el aprovechamiento sostenible.",
+      "b) Es obligatorio en todos los terrenos cinegéticos para poder cazar.",
+      "c) Es un documento voluntario, no es obligatorio.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 8 - Pregunta 12"
+  },
+  {
+    "id": 188,
+    "tema": 8,
+    "pregunta": "13. Un PTC es fijo, no se puede modificar en toda su vigencia:",
+    "opciones": [
+      "a) Falso, se puede modificar cuando se necesite para la correcta gestión del terreno cinegético.",
+      "b) Verdadero, es un documento cerrado para toda su vigencia.",
+      "c) Falso, se puede modificar solo 1 vez en toda su vigencia.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "a) Falso, se puede modificar cuando se necesite para la correcta gestión del terreno cinegético.",
+    "explicacion": "Tema 8 - Pregunta 13"
+  },
+  {
+    "id": 189,
+    "tema": 8,
+    "pregunta": "14. Durante la vigencia del PTC, hay que presentar uno nuevo cuando:",
+    "opciones": [
+      "a) La modificación de la superficie del terreno cinegético afecte a más del 50%.",
+      "b) La modificación de la superficie del terreno cinegético afecte a más del 25%.",
+      "c) Cuando se solicite modificar el aprovechamiento cinegético principal.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 8 - Pregunta 14"
+  },
+  {
+    "id": 190,
+    "tema": 8,
+    "pregunta": "15. ¿Un PTC se podrá suspender?:",
+    "opciones": [
+      "a) Nunca.",
+      "b) Sí, por incumplimiento a lo aprobado en el PTC, por aprovechamiento abusivo y desde la finalización de la vigencia del actual PTC hasta la renovación de mismo.",
+      "c) Sí, siempre que lo decida la administración libremente aunque sea sin motivo.",
+      "d) Sí, lo suspende la Guardia Civil."
+    ],
+    "correcta": "b) Sí, por incumplimiento a lo aprobado en el PTC, por aprovechamiento abusivo y desde la finalización de la vigencia del actual PTC hasta la renovación de mismo.",
+    "explicacion": "Tema 8 - Pregunta 15"
+  },
+  {
+    "id": 191,
+    "tema": 8,
+    "pregunta": "16. El hábitat es:",
+    "opciones": [
+      "a) El conjunto de territorios con características homogéneas donde vive una especie.",
+      "b) El conjunto de territorios con características homogéneas donde no vive una especie.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) El conjunto de territorios con características homogéneas donde vive una especie.",
+    "explicacion": "Tema 8 - Pregunta 16"
+  },
+  {
+    "id": 192,
+    "tema": 8,
+    "pregunta": "17. Ante factores limitantes del hábitat, hay medidas correctoras. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Escasea alimento -> Instalamos comederos.",
+      "b) Escasea refugio -> Quemamos linderos.",
+      "c) Escasea agua -> Limpiamos manantiales naturales.",
+      "d) Mortalidad no deseada por atropellos -> Colocación de vallados."
+    ],
+    "correcta": "b) Escasea refugio -> Quemamos linderos.",
+    "explicacion": "Tema 8 - Pregunta 17"
+  },
+  {
+    "id": 193,
+    "tema": 8,
+    "pregunta": "18. En un ecosistema forestal, indica las características de un hábitat no adecuado:",
+    "opciones": [
+      "a) Monte muy cerrado.",
+      "b) Paisaje de mosaico.",
+      "c) Alta biodiversidad.",
+      "d) Alternancia monte cerrado y zonas abiertas."
+    ],
+    "correcta": "a) Monte muy cerrado.",
+    "explicacion": "Tema 8 - Pregunta 18"
+  },
+  {
+    "id": 194,
+    "tema": 8,
+    "pregunta": "19. En un ecosistema agrícola, indica las características de un hábitat adecuado:",
+    "opciones": [
+      "a) Suelo con cobertura vegetal.",
+      "b) Suelo sin cobertura vegetal.",
+      "c) Suelo muy contaminado por fitosanitarios.",
+      "d) Escasea zona de refugio."
+    ],
+    "correcta": "a) Suelo con cobertura vegetal.",
+    "explicacion": "Tema 8 - Pregunta 19"
+  },
+  {
+    "id": 195,
+    "tema": 8,
+    "pregunta": "20. ¿Qué es la presión cinegética?:",
+    "opciones": [
+      "a) Es la presión que tiene un cazador para ir a cazar y abatir piezas.",
+      "b) Porcentaje de individuos que pueden ser cazados para que haya equilibrio entre el aprovechamiento cinegético y la garantía de un nº de reproductores suficientes para la conservación y fomento de la especie.",
+      "c) Es la presión que ejerce una pieza cinegética sobre el hábitat.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "b) Porcentaje de individuos que pueden ser cazados para que haya equilibrio entre el aprovechamiento cinegético y la garantía de un nº de reproductores suficientes para la conservación y fomento de la especie.",
+    "explicacion": "Tema 8 - Pregunta 20"
+  },
+  {
+    "id": 196,
+    "tema": 8,
+    "pregunta": "21. El fin de una repoblación es:",
+    "opciones": [
+      "a) La caza inmediata de las especies que se liberan.",
+      "b) Recuperar las poblaciones naturales de la especie.",
+      "c) Coger individuos de una zona del coto y liberarlos en otra zona del mismo coto.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "b) Recuperar las poblaciones naturales de la especie.",
+    "explicacion": "Tema 8 - Pregunta 21"
+  },
+  {
+    "id": 197,
+    "tema": 8,
+    "pregunta": "22. El fin de una suelta es:",
+    "opciones": [
+      "a) La caza inmediata de las especies que se liberan.",
+      "b) Recuperar las poblaciones naturales de la especie.",
+      "c) Coger individuos de una zona del coto y liberarlos en otra zona del mismo coto.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "a) La caza inmediata de las especies que se liberan.",
+    "explicacion": "Tema 8 - Pregunta 22"
+  },
+  {
+    "id": 198,
+    "tema": 8,
+    "pregunta": "23. Tanto la suelta como la repoblación debe estar contemplado en:",
+    "opciones": [
+      "a) El plan técnico de caza, aprobando la acción.",
+      "b) Las memorias anuales de caza, indicando los individuos liberados.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Ambas son correctas.",
+    "explicacion": "Tema 8 - Pregunta 23"
+  },
+  {
+    "id": 199,
+    "tema": 8,
+    "pregunta": "24. ¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?:",
+    "opciones": [
+      "a) Nunca, son especies no cazables.",
+      "b) Siempre que esté aprobado en el PTC, justificando los daños.",
+      "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "a) Nunca, son especies no cazables.",
+    "explicacion": "Tema 8 - Pregunta 24"
+  },
+  {
+    "id": 200,
+    "tema": 8,
+    "pregunta": "25. Ante los efectos positivos y negativos de la predación. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Elimina individuos enfermos -> Efecto positivo.",
+      "b) Predación en equilibrio -> Efecto negativo.",
+      "c) Predación en desequilibrio -> Efecto negativo.",
+      "d) Evita superpoblaciones que agoten recursos -> Efecto positivo."
+    ],
+    "correcta": "b) Predación en equilibrio -> Efecto negativo.",
+    "explicacion": "Tema 8 - Pregunta 25"
+  },
+  {
+    "id": 201,
+    "tema": 9,
+    "pregunta": "1. En relación a las armas de caza. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Escopeta ➔ Arma de fuego.",
+      "b) Ballesta ➔ Arma de fuego.",
+      "c) Arco ➔ Arma no de fuego.",
+      "d) Rifle ➔ Arma de fuego."
+    ],
+    "correcta": "b) Ballesta ➔ Arma de fuego.",
+    "explicacion": "Tema 9 - Pregunta 1"
+  },
+  {
+    "id": 202,
+    "tema": 9,
+    "pregunta": "2. La licencia de arma de clase E, autoriza a usar:",
+    "opciones": [
+      "a) Rifles.",
+      "b) Escopetas y ballestas.",
+      "c) Arcos.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "b) Escopetas y ballestas.",
+    "explicacion": "Tema 9 - Pregunta 2"
+  },
+  {
+    "id": 203,
+    "tema": 9,
+    "pregunta": "3. La licencia de arma de clase D, autoriza a usar:",
+    "opciones": [
+      "a) Rifles.",
+      "b) Escopetas y ballestas.",
+      "c) Arcos.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "a) Rifles.",
+    "explicacion": "Tema 9 - Pregunta 3"
+  },
+  {
+    "id": 204,
+    "tema": 9,
+    "pregunta": "4. Tipos de escopetas:",
+    "opciones": [
+      "a) Monotiro.",
+      "b) Paralelas y superpuestas.",
+      "c) Semiautomáticas.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 9 - Pregunta 4"
+  },
+  {
+    "id": 205,
+    "tema": 9,
+    "pregunta": "5. Las escopetas semiautomáticas tendrán como máximo:",
+    "opciones": [
+      "a) 4 cartuchos, siendo 1 en la recámara y 3 en el cargador.",
+      "b) 3 cartuchos, siendo 1 en la recámara y 2 en el cargador.",
+      "c) 3 cartuchos, siendo 2 en la recámara y 1 en el cargador.",
+      "d) No hay límite."
+    ],
+    "correcta": "b) 3 cartuchos, siendo 1 en la recámara y 2 en el cargador.",
+    "explicacion": "Tema 9 - Pregunta 5"
+  },
+  {
+    "id": 206,
+    "tema": 9,
+    "pregunta": "6. Los expulsores, la recámara y el punto de mira, forma parte de:",
+    "opciones": [
+      "a) Los cañones.",
+      "b) La báscula.",
+      "c) El guardamanos.",
+      "d) La culata."
+    ],
+    "correcta": "a) Los cañones.",
+    "explicacion": "Tema 9 - Pregunta 6"
+  },
+  {
+    "id": 207,
+    "tema": 9,
+    "pregunta": "7. Tipos de rifles:",
+    "opciones": [
+      "a) Manual o de cerrojo.",
+      "b) Semiautomáticos.",
+      "c) Express.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas.",
+    "explicacion": "Tema 9 - Pregunta 7"
+  },
+  {
+    "id": 208,
+    "tema": 9,
+    "pregunta": "8. Los rifles se emplean tanto para la caza mayor como para la caza menor:",
+    "opciones": [
+      "a) Falso, sólo para especies de caza mayor.",
+      "b) Falso, sólo para especies de caza menor.",
+      "c) Verdadero.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "a) Falso, sólo para especies de caza mayor.",
+    "explicacion": "Tema 9 - Pregunta 8"
+  },
+  {
+    "id": 209,
+    "tema": 9,
+    "pregunta": "9. En un aguardo diurno de zorro, ¿se puede emplear rifle?:",
+    "opciones": [
+      "a) No, porque es una especie de caza menor.",
+      "b) Sí, porque es una especie de caza mayor.",
+      "c) Sí, pues aunque sea una especie de caza menor, por su tamaño si se puede emplear esta arma.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) No, porque es una especie de caza menor.",
+    "explicacion": "Tema 9 - Pregunta 9"
+  },
+  {
+    "id": 210,
+    "tema": 9,
+    "pregunta": "10. En relación a la munición de las armas de caza. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Escopeta ➔ Cartucho.",
+      "b) Escopeta ➔ Cartuchería metálica.",
+      "c) Escopeta ➔ Cartucho de perdigones o de bala (para caza mayor).",
+      "d) Rifle ➔ Cartuchería metálica."
+    ],
+    "correcta": "b) Escopeta ➔ Cartuchería metálica.",
+    "explicacion": "Tema 9 - Pregunta 10"
+  },
+  {
+    "id": 211,
+    "tema": 9,
+    "pregunta": "11. Un cartucho con perdigón del número 8, será más pequeño que el perdigón del número 7:",
+    "opciones": [
+      "a) Falso, el nº 8 será más grueso que el nº 7.",
+      "b) Falso, es indiferente, los números es debido a otro parámetro.",
+      "c) Verdadero, el nº 8 será menos grueso que el nº 7.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Verdadero, el nº 8 será menos grueso que el nº 7.",
+    "explicacion": "Tema 9 - Pregunta 11"
+  },
+  {
+    "id": 212,
+    "tema": 9,
+    "pregunta": "12. Un cartucho con 36 gramos del nº 7, tendrá mayor número de unidades de plomo que un cartucho de 34 gramos del nº 7:",
+    "opciones": [
+      "a) Verdadero, el gramaje es el peso en plomo que tiene un cartucho.",
+      "b) Falso, el gramaje es el peso de la pólvora que tiene un cartucho.",
+      "c) Falso, el gramaje es el peso total que tiene un cartucho.",
+      "d) Verdadero, el gramaje es el peso que tiene cada plomo de un cartucho."
+    ],
+    "correcta": "a) Verdadero, el gramaje es el peso en plomo que tiene un cartucho.",
+    "explicacion": "Tema 9 - Pregunta 12"
+  },
+  {
+    "id": 213,
+    "tema": 9,
+    "pregunta": "13. Para usar un arco, ¿qué licencia de armas se necesita?:",
+    "opciones": [
+      "a) La licencia de armas clase B.",
+      "b) La licencia de armas clase E.",
+      "c) La licencia de armas clase D.",
+      "d) Ninguna es correcta, no requiere licencia de armas."
+    ],
+    "correcta": "d) Ninguna es correcta, no requiere licencia de armas.",
+    "explicacion": "Tema 9 - Pregunta 13"
+  },
+  {
+    "id": 214,
+    "tema": 9,
+    "pregunta": "14. ¿Las armas blancas se pueden usar para cazar?:",
+    "opciones": [
+      "a) Sí, de manera genérica.",
+      "b) No, salvo emplearlo como elemento auxiliar para rematar piezas heridas de caza mayor y llevarla sólo durante la acción de cazar.",
+      "c) No, salvo para rematar piezas heridas, pudiéndola llevar colgada en el cinturón a la vista en todo momento, incluso durante el desayuno y junta de carnes posterior.",
+      "d) Sí, para la caza menor."
+    ],
+    "correcta": "b) No, salvo emplearlo como elemento auxiliar para rematar piezas heridas de caza mayor y llevarla sólo durante la acción de cazar.",
+    "explicacion": "Tema 9 - Pregunta 14"
+  },
+  {
+    "id": 215,
+    "tema": 9,
+    "pregunta": "15. Son armas prohibidas para la caza:",
+    "opciones": [
+      "a) De aire comprimido, rifles del calibre 22 y armas automáticas.",
+      "b) Armas de guerra.",
+      "c) Cartuchería perforante, incendiaria o explosiva.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 9 - Pregunta 15"
+  },
+  {
+    "id": 216,
+    "tema": 9,
+    "pregunta": "16. La guía de pertenencia de armas es:",
+    "opciones": [
+      "a) El documento que identifica al arma y a su propietario y debe ir siempre con el arma.",
+      "b) Es la guía del usuario del arma.",
+      "c) Es la garantía de fábrica del arma.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "a) El documento que identifica al arma y a su propietario y debe ir siempre con el arma.",
+    "explicacion": "Tema 9 - Pregunta 16"
+  },
+  {
+    "id": 217,
+    "tema": 9,
+    "pregunta": "17. Cuando le llevemos el arma a un armero para su reparación, ¿qué documento debemos dejarle también?",
+    "opciones": [
+      "a) La licencia de armas del propietario del arma.",
+      "b) La guía de pertenencia del arma.",
+      "c) Licencia de armas del propietario del arma y guía de pertenencia del arma.",
+      "d) Nada, no hay que dejarle ninguna documentación, sólo el arma."
+    ],
+    "correcta": "b) La guía de pertenencia del arma.",
+    "explicacion": "Tema 9 - Pregunta 17"
+  },
+  {
+    "id": 218,
+    "tema": 9,
+    "pregunta": "18. La revista de armas, tiene una vigencia de:",
+    "opciones": [
+      "a) 3 años para rifles y 5 años para escopetas y ballestas.",
+      "b) 5 años para rifles y 5 años para escopetas y ballestas.",
+      "c) 3 años para rifles y 3 años para escopetas y ballestas.",
+      "d) 5 años para rifles y 3 años para escopetas y ballestas."
+    ],
+    "correcta": "b) 5 años para rifles y 5 años para escopetas y ballestas.",
+    "explicacion": "Tema 9 - Pregunta 18"
+  },
+  {
+    "id": 219,
+    "tema": 9,
+    "pregunta": "19. Vamos por la calle con nuestra arma colgada al hombro sin funda ni nada y descargada. ¿Es correcta nuestra aptitud?:",
+    "opciones": [
+      "a) Sí, al estar descargada podemos llevarla desenfundada por la calle.",
+      "b) No, por la vía pública deberá ir siempre enfundada aunque sí puede ir cargada.",
+      "c) No, por la vía pública deberá ir siempre enfundada y descargada.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) No, por la vía pública deberá ir siempre enfundada y descargada.",
+    "explicacion": "Tema 9 - Pregunta 19"
+  },
+  {
+    "id": 220,
+    "tema": 9,
+    "pregunta": "20. Como medidas de seguridad, indica las medidas incorrectas:",
+    "opciones": [
+      "a) Siempre descargar el arma antes de saltar.",
+      "b) Nunca dejar cargada el arma dentro de un vehículo.",
+      "c) Siempre cazar con el seguro puesto hasta el momento antes del disparo.",
+      "d) Siempre mantener el dedo en el gatillo mientras se caza para ser más rápido disparando."
+    ],
+    "correcta": "d) Siempre mantener el dedo en el gatillo mientras se caza para ser más rápido disparando.",
+    "explicacion": "Tema 9 - Pregunta 20"
+  },
+  {
+    "id": 221,
+    "tema": 9,
+    "pregunta": "21. Como medidas de seguridad, indica las medidas incorrectas:",
+    "opciones": [
+      "a) Nunca dispare al bulto sin identificar al 100% la pieza.",
+      "b) Con balas, puede disparar al viso, porque como estaremos al 100% seguros de que le daremos a la pieza, no hay peligro de que se pierda la bala e impacte contra una persona.",
+      "c) Nunca dejar el arma cargada en el suelo.",
+      "d) No dispare en caso de duda, si no puede calcular bien la distancia de la pieza de caza a nuestro perro o a un compañero de partida de caza."
+    ],
+    "correcta": "b) Con balas, puede disparar al viso, porque como estaremos al 100% seguros de que le daremos a la pieza, no hay peligro de que se pierda la bala e impacte contra una persona.",
+    "explicacion": "Tema 9 - Pregunta 21"
+  },
+  {
+    "id": 222,
+    "tema": 9,
+    "pregunta": "22. En caso de robo, deterioro o pérdida del arma o documentación del arma:",
+    "opciones": [
+      "a) No hacer nada, para evitar ser sancionados.",
+      "b) Comunicarlo inmediatamente a la Consejería competente en materia de caza.",
+      "c) Comunicarlo inmediatamente a la Intervención de Armas de la Guardia Civil o puesto de la Guardia Civil más cercano.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "c) Comunicarlo inmediatamente a la Intervención de Armas de la Guardia Civil o puesto de la Guardia Civil más cercano.",
+    "explicacion": "Tema 9 - Pregunta 22"
+  },
+  {
+    "id": 223,
+    "tema": 9,
+    "pregunta": "23. ¿Qué armas deben ser guardadas obligatoriamente en armeros de seguridad?:",
+    "opciones": [
+      "a) Todas las armas de fuego.",
+      "b) Las armas de categoría 2ª (rifles).",
+      "c) Las armas de categoría 3ª (escopetas y ballestas).",
+      "d) Las armas de categoría 2ª (rifles) aunque es recomendable guardar todo tipo de armas como medida de seguridad en la custodia de las armas."
+    ],
+    "correcta": "d) Las armas de categoría 2ª (rifles) aunque es recomendable guardar todo tipo de armas como medida de seguridad en la custodia de las armas.",
+    "explicacion": "Tema 9 - Pregunta 23"
+  },
+  {
+    "id": 224,
+    "tema": 9,
+    "pregunta": "24. Para conservar las armas, es recomendable limpiarlas después de cada jornada de caza:",
+    "opciones": [
+      "a) Falso, no es necesario, son armas resistentes.",
+      "b) Verdadero, pues así evitamos la oxidación y deterioro del arma y eso no da garantías de seguridad a la hora de usarlas.",
+      "c) Verdadero y es obligatorio que lo haga un armero autorizado.",
+      "d) Falso, pero no es recomendable, es obligatorio por norma."
+    ],
+    "correcta": "b) Verdadero, pues así evitamos la oxidación y deterioro del arma y eso no da garantías de seguridad a la hora de usarlas.",
+    "explicacion": "Tema 9 - Pregunta 24"
+  },
+  {
+    "id": 225,
+    "tema": 9,
+    "pregunta": "25. El incumplimiento de no pasar la revista de armas o no comunicar el robo, deterioro, pérdida del arma o su documentación, es sancionable:",
+    "opciones": [
+      "a) Verdadero, con diferente cuantía en función del tipo de infracción.",
+      "b) Falso, no es sancionable.",
+      "c) Verdadero, con 3.000€ de multa.",
+      "d) Verdadero, con 1.000€ de multa."
+    ],
+    "correcta": "a) Verdadero, con diferente cuantía en función del tipo de infracción.",
+    "explicacion": "Tema 9 - Pregunta 25"
+  },
+  {
+    "id": 226,
+    "tema": 10,
+    "pregunta": "1. ¿Qué animales son considerados auxiliares para la caza?:",
+    "opciones": [
+      "a) Perros de caza.",
+      "b) Aves de cetrería.",
+      "c) Reclamos vivos.",
+      "d) Todos los anteriores."
+    ],
+    "correcta": "d) Todos los anteriores.",
+    "explicacion": "Tema 10 - Pregunta 1"
+  },
+  {
+    "id": 227,
+    "tema": 10,
+    "pregunta": "2. ¿La rehala de cuántos perros estará compuesta?:",
+    "opciones": [
+      "a) De 10 a 20 perros.",
+      "b) De 16 a 40 perros.",
+      "c) De 16 a 24 perros.",
+      "d) De 16 a 50 perros."
+    ],
+    "correcta": "c) De 16 a 24 perros.",
+    "explicacion": "Tema 10 - Pregunta 2"
+  },
+  {
+    "id": 228,
+    "tema": 10,
+    "pregunta": "3. ¿Una rehala cuántos perros puede soltar en una montería?:",
+    "opciones": [
+      "a) De 10 a 20 perros.",
+      "b) De 16 a 40 perros.",
+      "c) De 16 a 24 perros + 6 perros menores de 24 meses.",
+      "d) De 16 a 24 perros."
+    ],
+    "correcta": "c) De 16 a 24 perros + 6 perros menores de 24 meses.",
+    "explicacion": "Tema 10 - Pregunta 3"
+  },
+  {
+    "id": 229,
+    "tema": 10,
+    "pregunta": "4. Para cazar con perros pero sin armas, ¿qué licencia de caza requiere?:",
+    "opciones": [
+      "a) Ninguna.",
+      "b) Licencia de clase B.",
+      "c) Licencia de clase C.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "b) Licencia de clase B.",
+    "explicacion": "Tema 10 - Pregunta 4"
+  },
+  {
+    "id": 230,
+    "tema": 10,
+    "pregunta": "5. ¿Qué es un tanganillo?:",
+    "opciones": [
+      "a) En un palo de madera que se le pone al perro en el cuello para que no pueda correr libremente por el campo en época de veda.",
+      "b) Mide 2 cm. de diámetro siendo su longitud variable dependiendo del alza del perro, debiéndole llegar al antebrazo.",
+      "c) Es un candado pequeño.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 10 - Pregunta 5"
+  },
+  {
+    "id": 231,
+    "tema": 10,
+    "pregunta": "6. El Código Penal recoge el tema de los animales de compañía:",
+    "opciones": [
+      "a) Falso, ese tema no lo recoge.",
+      "b) Verdadero, recoge tanto el maltrato animal como el abandono animal.",
+      "c) Sólo recoge el maltrato animal, no el abandono animal.",
+      "d) Sólo recoge el abandono animal, no el maltrato animal."
+    ],
+    "correcta": "b) Verdadero, recoge tanto el maltrato animal como el abandono animal.",
+    "explicacion": "Tema 10 - Pregunta 6"
+  },
+  {
+    "id": 232,
+    "tema": 10,
+    "pregunta": "7. La Ley 11/2003, 24 noviembre, Protección Animal, recoge una serie de obligaciones hacia los animales de compañía. Indique las respuestas correctas:",
+    "opciones": [
+      "a) Mantenerlo en buenas condiciones higiénico-sanitarias y proporcionarle alimento adecuado.",
+      "b) Realizarle los tratamientos obligatorios sanitarios.",
+      "c) Inscribirlos en los registros y censos que establezca la norma.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 10 - Pregunta 7"
+  },
+  {
+    "id": 233,
+    "tema": 10,
+    "pregunta": "8. La Ley 11/2003, 24 noviembre, Protección Animal, recoge una serie de infracciones:",
+    "opciones": [
+      "a) Falso.",
+      "b) Verdadero, siendo muy graves, graves y leves.",
+      "c) Verdadero, siendo graves y leves.",
+      "d) Verdadero, siendo muy graves y graves."
+    ],
+    "correcta": "b) Verdadero, siendo muy graves, graves y leves.",
+    "explicacion": "Tema 10 - Pregunta 8"
+  },
+  {
+    "id": 234,
+    "tema": 10,
+    "pregunta": "9. De los siguientes enunciados, indique cuáles son infracciones según la Ley de Protección Animal:",
+    "opciones": [
+      "a) Sacrificio sin control veterinario.",
+      "b) Abandono animal.",
+      "c) Mutilaciones con fines exclusivamente estéticos.",
+      "d) Todas las anteriores."
+    ],
+    "correcta": "d) Todas las anteriores.",
+    "explicacion": "Tema 10 - Pregunta 9"
+  },
+  {
+    "id": 235,
+    "tema": 10,
+    "pregunta": "10. De los siguientes enunciados, indique cuáles son infracciones según la Ley de Protección Animal:",
+    "opciones": [
+      "a) Vender animales a menores de 16 años sin autorización de su tutor legal y vender animales con menos de 40 días de vida.",
+      "b) Mantener a los animales de forma que ocasionen molestias a los vecinos.",
+      "c) Emplear animales para adiestrar a otros para el ataque.",
+      "d) Todas las anteriores."
+    ],
+    "correcta": "d) Todas las anteriores.",
+    "explicacion": "Tema 10 - Pregunta 10"
+  },
+  {
+    "id": 236,
+    "tema": 10,
+    "pregunta": "11. Con relación al bienestar animal:",
+    "opciones": [
+      "a) Si los perros se tienen atados, la cadena deberá ser al menos de 3 metros de longitud.",
+      "b) Si los perros se tienen en habitáculos, tendrá una superficie suficiente amplia.",
+      "c) Al menos 1 hora al día, los perros deberán estar fuera de su habitáculo o libre de ataduras.",
+      "d) Todas las anteriores son correctas."
+    ],
+    "correcta": "d) Todas las anteriores son correctas.",
+    "explicacion": "Tema 10 - Pregunta 11"
+  },
+  {
+    "id": 237,
+    "tema": 10,
+    "pregunta": "12. ¿A partir de qué edad es obligatoria la implantación del microchip a un perro o hurón?:",
+    "opciones": [
+      "a) A partir de los 3 meses.",
+      "b) A partir de los 6 meses.",
+      "c) A partir del 1 año.",
+      "d) No es obligatorio el microchip."
+    ],
+    "correcta": "a) A partir de los 3 meses.",
+    "explicacion": "Tema 10 - Pregunta 12"
+  },
+  {
+    "id": 238,
+    "tema": 10,
+    "pregunta": "13. ¿A partir de qué edad es obligatoria la vacunación antirrábica de un perro o hurón?:",
+    "opciones": [
+      "a) A partir de los 3 meses con revacunación al mes de la primera vacuna.",
+      "b) A partir de los 6 meses.",
+      "c) A partir del 1 año.",
+      "d) No es obligatorio."
+    ],
+    "correcta": "a) A partir de los 3 meses con revacunación al mes de la primera vacuna.",
+    "explicacion": "Tema 10 - Pregunta 13"
+  },
+  {
+    "id": 239,
+    "tema": 10,
+    "pregunta": "14. ¿Cada cuánto tiempo es obligatoria la vacunación antirrábica y desparasitación de un perro o hurón?:",
+    "opciones": [
+      "a) A partir de los 3 meses con revacunación al mes de la primera vacuna.",
+      "b) A partir de los 6 meses.",
+      "c) Anualmente.",
+      "d) No es obligatorio."
+    ],
+    "correcta": "c) Anualmente.",
+    "explicacion": "Tema 10 - Pregunta 14"
+  },
+  {
+    "id": 240,
+    "tema": 10,
+    "pregunta": "15. ¿Qué requisitos no se necesita para emplear como animal auxiliar el ave de cetrería?:",
+    "opciones": [
+      "a) Carnet de cetrero.",
+      "b) Anilla identificativa del origen del animal.",
+      "c) Licencia de caza complementaria C1.",
+      "d) Vacunación antirrábica del ave de cetrería."
+    ],
+    "correcta": "d) Vacunación antirrábica del ave de cetrería.",
+    "explicacion": "Tema 10 - Pregunta 15"
+  },
+  {
+    "id": 241,
+    "tema": 10,
+    "pregunta": "16. ¿Qué requisitos no se necesita para emplear como animal auxiliar el hurón?:",
+    "opciones": [
+      "a) Microchip y registro en el RAIA.",
+      "b) Autorización de tenencia para el control de conejos por daños.",
+      "c) Licencia de caza complementaria C3.",
+      "d) Vacunación antirrábica y desparasitación."
+    ],
+    "correcta": "c) Licencia de caza complementaria C3.",
+    "explicacion": "Tema 10 - Pregunta 16"
+  },
+  {
+    "id": 242,
+    "tema": 10,
+    "pregunta": "17. ¿Qué requisitos se necesita para emplear como animal auxiliar el perro?:",
+    "opciones": [
+      "a) Microchip y registro en el RAIA.",
+      "b) Vacunación antirrábica.",
+      "c) Desparasitación.",
+      "d) Todos las anteriores."
+    ],
+    "correcta": "d) Todos las anteriores.",
+    "explicacion": "Tema 10 - Pregunta 17"
+  },
+  {
+    "id": 243,
+    "tema": 10,
+    "pregunta": "18. Con relación a la cetrería. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Águila Harrie ➔ Bajo vuelo.",
+      "b) Halcón peregrino ➔ Bajo vuelo.",
+      "c) Halcón peregrino ➔ Altanería.",
+      "d) Azor ➔ Bajo vuelo."
+    ],
+    "correcta": "b) Halcón peregrino ➔ Bajo vuelo.",
+    "explicacion": "Tema 10 - Pregunta 18"
+  },
+  {
+    "id": 244,
+    "tema": 10,
+    "pregunta": "19. ¿Qué razas de perros se emplean para la caza del zorro en madriguera?:",
+    "opciones": [
+      "a) Jack terrier.",
+      "b) Teckel.",
+      "c) Galgo.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 10 - Pregunta 19"
+  },
+  {
+    "id": 245,
+    "tema": 10,
+    "pregunta": "20. Los perros de sangre son aquellos que:",
+    "opciones": [
+      "a) Rastrean las piezas heridas hasta localizarlas.",
+      "b) Rastrean el rastro de las piezas para levantarlas del encame.",
+      "c) Son aquellos perros de pura sangre sin cruce.",
+      "d) Son aquellos perros que les gusta comerse la sangre de las piezas abatidas."
+    ],
+    "correcta": "a) Rastrean las piezas heridas hasta localizarlas.",
+    "explicacion": "Tema 10 - Pregunta 20"
+  },
+  {
+    "id": 246,
+    "tema": 10,
+    "pregunta": "21. Para transportar perros sin ánimo de lucro:",
+    "opciones": [
+      "a) No necesita limpiar y desinfectar los remolques.",
+      "b) No necesita estar inscritos en registro de transportistas.",
+      "c) Necesita colocar un cartel identificativo de \"transporte de animales vivos\".",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 10 - Pregunta 21"
+  },
+  {
+    "id": 247,
+    "tema": 10,
+    "pregunta": "22. Para transportar perros con ánimo de lucro (rehalas):",
+    "opciones": [
+      "a) Necesita limpiar y desinfectar los remolques.",
+      "b) Necesita estar inscritos en registro de transportistas.",
+      "c) Necesita colocar un cartel identificativo de \"transporte de animales vivos\".",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 10 - Pregunta 22"
+  },
+  {
+    "id": 248,
+    "tema": 10,
+    "pregunta": "23. El podenco andaluz se emplea para:",
+    "opciones": [
+      "a) Caza mayor y caza menor.",
+      "b) Cazar la liebre en carrera.",
+      "c) Cazar en conejo a diente.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 10 - Pregunta 23"
+  },
+  {
+    "id": 249,
+    "tema": 10,
+    "pregunta": "24. ¿Qué requisitos se necesita para emplear como animal auxiliar la perdiz con reclamo macho?:",
+    "opciones": [
+      "a) Licencia complementaria C2.",
+      "b) Anilla identificativa del origen.",
+      "c) Estar inscrito en el Registro de Medios Auxiliares, cuando se regule por Orden.",
+      "d) Todos las anteriores."
+    ],
+    "correcta": "d) Todos las anteriores.",
+    "explicacion": "Tema 10 - Pregunta 24"
+  },
+  {
+    "id": 250,
+    "tema": 10,
+    "pregunta": "25. Si un cazador caza con un perro de 5 meses sin microchip y sin vacuna antirrábica ni desparasitación obligatoria, ¿está cometiendo una infracción?:",
+    "opciones": [
+      "a) Sí, son dos infracciones graves, siendo sancionada cada infracción grave con una cuantía de 501€ a 2.000€.",
+      "b) No es un hecho denunciable pues la ley obliga a ponerle el chip y tratamientos obligatorios a partir de 6 meses de edad del perro.",
+      "c) Sí, es una infracción grave, siendo sancionada la grave con una cuantía de 501€ a 2.000€.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Sí, son dos infracciones graves, siendo sancionada cada infracción grave con una cuantía de 501€ a 2.000€.",
+    "explicacion": "Tema 10 - Pregunta 25"
+  },
+  {
+    "id": 251,
+    "tema": 11,
+    "pregunta": "1. Diferencias entre limitación y prohibición:",
+    "opciones": [
+      "a) Limitación es fijar un límite a algo permitido, mientras que prohibición es impedir algo que no se puede hacer.",
+      "b) Prohibición es fijar un límite a algo permitido, mientras que limitación es algo que no se puede hacer.",
+      "c) No hay diferencias, son cosas similares.",
+      "d) Es el quebrantamiento de una norma."
+    ],
+    "correcta": "a) Limitación es fijar un límite a algo permitido, mientras que prohibición es impedir algo que no se puede hacer.",
+    "explicacion": "Tema 11 - Pregunta 1"
+  },
+  {
+    "id": 252,
+    "tema": 11,
+    "pregunta": "2. ¿Qué es una infracción?:",
+    "opciones": [
+      "a) Es fijar un límite a algo permitido.",
+      "b) Es impedir algo que no se puede hacer.",
+      "c) Es la multa económica.",
+      "d) Es el quebrantamiento de una norma."
+    ],
+    "correcta": "d) Es el quebrantamiento de una norma.",
+    "explicacion": "Tema 11 - Pregunta 2"
+  },
+  {
+    "id": 253,
+    "tema": 11,
+    "pregunta": "3. Si alguien no conoce una norma, no tiene por qué cumplirla:",
+    "opciones": [
+      "a) Falso, todo el mundo tiene el deber y derecho de conocer las normas, de ahí que se publiquen en boletines oficiales públicos y gratuitos.",
+      "b) Falso, de ahí la expresión \"el desconocimiento de una ley, no exime de su cumplimiento\".",
+      "c) La a y b son correctas.",
+      "d) La a y b son incorrectas."
+    ],
+    "correcta": "c) La a y b son correctas.",
+    "explicacion": "Tema 11 - Pregunta 3"
+  },
+  {
+    "id": 254,
+    "tema": 11,
+    "pregunta": "4. Los métodos de captura prohibidos, ¿Cuándo podrán ser autorizados?:",
+    "opciones": [
+      "a) Para el control de daños en agricultura.",
+      "b) Cuando se deseé, solo con pedir autorización bastaría.",
+      "c) Nunca podrán ser autorizados.",
+      "d) Para cazar más."
+    ],
+    "correcta": "a) Para el control de daños en agricultura.",
+    "explicacion": "Tema 11 - Pregunta 4"
+  },
+  {
+    "id": 255,
+    "tema": 11,
+    "pregunta": "5. ¿Por qué se prohíben los métodos de captura? Señala la incorrecta:",
+    "opciones": [
+      "a) Por ser métodos muy abrasivos con el medio.",
+      "b) Porque el gobierno lo decide en una reunión, sin más justificación.",
+      "c) Por ser métodos de captura masiva.",
+      "d) Por ser métodos de captura no selectiva."
+    ],
+    "correcta": "b) Porque el gobierno lo decide en una reunión, sin más justificación.",
+    "explicacion": "Tema 11 - Pregunta 5"
+  },
+  {
+    "id": 256,
+    "tema": 11,
+    "pregunta": "6. ¿Se puede cazar desde un coche?",
+    "opciones": [
+      "a) No, está totalmente prohibido.",
+      "b) Sí, para que las especies de caza no nos vean.",
+      "c) Sí, en aguardo nocturno para no pasar frío.",
+      "d) Está totalmente permitido."
+    ],
+    "correcta": "a) No, está totalmente prohibido.",
+    "explicacion": "Tema 11 - Pregunta 6"
+  },
+  {
+    "id": 257,
+    "tema": 11,
+    "pregunta": "7. Los cepos, costillas y trampas son métodos prohibidos, ¿por qué?:",
+    "opciones": [
+      "a) No son métodos prohibidos.",
+      "b) Porque son métodos no selectivos.",
+      "c) Porque son métodos masivos.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 11 - Pregunta 7"
+  },
+  {
+    "id": 258,
+    "tema": 11,
+    "pregunta": "8. Las redes en general son métodos prohibidos, ¿por qué?:",
+    "opciones": [
+      "a) No son métodos prohibidos.",
+      "b) Porque son métodos no selectivos.",
+      "c) Porque son métodos masivos.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 11 - Pregunta 8"
+  },
+  {
+    "id": 259,
+    "tema": 11,
+    "pregunta": "9. En el ejercicio de la caza, el incumplimiento de las normas puede dar lugar a delitos e infracciones:",
+    "opciones": [
+      "a) Verdadero.",
+      "b) Falso, sólo infracciones.",
+      "c) Falso, sólo delitos.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Verdadero.",
+    "explicacion": "Tema 11 - Pregunta 9"
+  },
+  {
+    "id": 260,
+    "tema": 11,
+    "pregunta": "10. ¿Cómo se clasifican las infracciones?:",
+    "opciones": [
+      "a) Muy graves.",
+      "b) Graves.",
+      "c) Leves.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 11 - Pregunta 10"
+  },
+  {
+    "id": 261,
+    "tema": 11,
+    "pregunta": "11. ¿Cuáles son las cuantías de las sanciones a las infracciones de la Ley 8/2003? Señala la incorrecta:",
+    "opciones": [
+      "a) Infracción Leve, sanción de 60€ a 600€.",
+      "b) Infracción Grave, sanción de 601€ a 4.000€.",
+      "c) Infracción Muy Grave, sanción de 4.001€ a 53.500€.",
+      "d) Infracción Leve, sanción de 100€ a 600€."
+    ],
+    "correcta": "d) Infracción Leve, sanción de 100€ a 600€.",
+    "explicacion": "Tema 11 - Pregunta 11"
+  },
+  {
+    "id": 262,
+    "tema": 11,
+    "pregunta": "12. Además de las sanciones económicas a las infracciones, existen otras sanciones accesorias:",
+    "opciones": [
+      "a) Falso, sólo existen sanciones económicas.",
+      "b) Verdadero, siendo la suspensión o inhabilitación para la obtención de la correspondiente licencia o autorización del aprovechamiento, ambos por un tiempo determinado.",
+      "c) Verdadero, pero sólo la retirada de la licencia de caza.",
+      "d) Verdadero, pero sólo la retirada de la autorización del aprovechamiento."
+    ],
+    "correcta": "b) Verdadero, siendo la suspensión o inhabilitación para la obtención de la correspondiente licencia o autorización del aprovechamiento, ambos por un tiempo determinado.",
+    "explicacion": "Tema 11 - Pregunta 12"
+  },
+  {
+    "id": 263,
+    "tema": 11,
+    "pregunta": "13. Con relación a la prescripción de las infracciones de la Ley 8/2003, señala la respuesta incorrecta:",
+    "opciones": [
+      "a) Infracción Leve, prescripción al año.",
+      "b) Infracción Grave, prescripción a los 2 años.",
+      "c) Infracción Muy Grave, prescripción a los 3 años.",
+      "d) Infracción Leve, prescripción a los 6 meses."
+    ],
+    "correcta": "d) Infracción Leve, prescripción a los 6 meses.",
+    "explicacion": "Tema 11 - Pregunta 13"
+  },
+  {
+    "id": 264,
+    "tema": 11,
+    "pregunta": "14. Cuando los daños los origina un menor de edad:",
+    "opciones": [
+      "a) El responsable será siempre el menor de edad.",
+      "b) El responsable será su padre / madre / tutor legal.",
+      "c) Nadie será el responsable.",
+      "d) El titular del coto."
+    ],
+    "correcta": "b) El responsable será su padre / madre / tutor legal.",
+    "explicacion": "Tema 11 - Pregunta 14"
+  },
+  {
+    "id": 265,
+    "tema": 11,
+    "pregunta": "15. Cometer una infracción dentro de un espacio natural protegido es:",
+    "opciones": [
+      "a) Un delito.",
+      "b) Una circunstancia agravante y se impondrán sanciones superiores.",
+      "c) Una circunstancia atenuante y se impondrán sanciones menores.",
+      "d) Una infracción muy grave."
+    ],
+    "correcta": "b) Una circunstancia agravante y se impondrán sanciones superiores.",
+    "explicacion": "Tema 11 - Pregunta 15"
+  },
+  {
+    "id": 266,
+    "tema": 11,
+    "pregunta": "16. Diferencia entre reiteración y reincidencia:",
+    "opciones": [
+      "a) La reiteración es la comisión de más de una infracción en un determinado periodo de tiempo y la reincidencia es la comisión de más de una infracción en un determinado periodo de tiempo cuando el infractor haya sido sancionado firmemente.",
+      "b) La reincidencia es la comisión de más de una infracción en un determinado periodo de tiempo y la reiteración es la comisión de más de una infracción en un determinado periodo de tiempo cuando el infractor haya sido sancionado firmemente.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) La reiteración es la comisión de más de una infracción en un determinado periodo de tiempo y la reincidencia es la comisión de más de una infracción en un determinado periodo de tiempo cuando el infractor haya sido sancionado firmemente.",
+    "explicacion": "Tema 11 - Pregunta 16"
+  },
+  {
+    "id": 267,
+    "tema": 11,
+    "pregunta": "17. ¿Qué es el decomiso?:",
+    "opciones": [
+      "a) Es la retirada de armas, artes, medios, caza y animales auxiliares por parte de los agentes de la autoridad.",
+      "b) Es la retirada sólo de armas por parte de los agentes de la autoridad.",
+      "c) Es la retirada de armas, artes, medios, caza y animales auxiliares por parte de los auxiliares de la autoridad.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "a) Es la retirada de armas, artes, medios, caza y animales auxiliares por parte de los agentes de la autoridad.",
+    "explicacion": "Tema 11 - Pregunta 17"
+  },
+  {
+    "id": 268,
+    "tema": 11,
+    "pregunta": "18. Con relación al decomiso de artes de caza. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Arte ilegal ➔ Destrucción.",
+      "b) Arte legal ➔ Rescate tras pago de sanción.",
+      "c) Arte legal ➔ Destrucción.",
+      "d) Arte ilegal ➔ Sin derecho a indemnización."
+    ],
+    "correcta": "c) Arte legal ➔ Destrucción.",
+    "explicacion": "Tema 11 - Pregunta 18"
+  },
+  {
+    "id": 269,
+    "tema": 11,
+    "pregunta": "19. Con relación al decomiso de caza. Indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Animal vivo ➔ Centro benéfico.",
+      "b) Animal vivo ➔ Liberación en ese lugar.",
+      "c) Animal muerto ➔ Centro benéfico.",
+      "d) Animal vivo ➔ A centros de recuperación para curarlos."
+    ],
+    "correcta": "a) Animal vivo ➔ Centro benéfico.",
+    "explicacion": "Tema 11 - Pregunta 19"
+  },
+  {
+    "id": 270,
+    "tema": 11,
+    "pregunta": "20. Cazar en época de veda o en terreno no cinegético habiendo cobrado pieza es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "d) Un delito.",
+    "explicacion": "Tema 11 - Pregunta 20"
+  },
+  {
+    "id": 271,
+    "tema": 11,
+    "pregunta": "21. Cazar sin licencia de caza, ni seguro obligatorio de R.C. del cazador, ni autorización del titular del coto es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "b) Infracción grave.",
+    "explicacion": "Tema 11 - Pregunta 21"
+  },
+  {
+    "id": 272,
+    "tema": 11,
+    "pregunta": "22. Cazar con más de 3 perros cuando se emplea armas es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "c) Infracción leve.",
+    "explicacion": "Tema 11 - Pregunta 22"
+  },
+  {
+    "id": 273,
+    "tema": 11,
+    "pregunta": "23. Cazar desde vehículos a motor es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "b) Infracción grave.",
+    "explicacion": "Tema 11 - Pregunta 23"
+  },
+  {
+    "id": 274,
+    "tema": 11,
+    "pregunta": "24. Cazar una especie protegida, cazar una especie no cazable o empleo de venenos es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "d) Un delito.",
+    "explicacion": "Tema 11 - Pregunta 24"
+  },
+  {
+    "id": 275,
+    "tema": 11,
+    "pregunta": "25. La suelta y repoblación de especies cinegéticas sin autorización es:",
+    "opciones": [
+      "a) Infracción muy grave.",
+      "b) Infracción grave.",
+      "c) Infracción leve.",
+      "d) Un delito."
+    ],
+    "correcta": "b) Infracción grave.",
+    "explicacion": "Tema 11 - Pregunta 25"
+  },
+  {
+    "id": 276,
+    "tema": 12,
+    "pregunta": "1. Un comportamiento esencial de todo cazador es la medida de seguridad durante la caza. Señala la respuesta incorrecta:",
+    "opciones": [
+      "a) No disparar hacia las zonas de reserva.",
+      "b) No disparar hacia las zonas de seguridad.",
+      "c) No cazar bajo las influencias de alcohol y drogas.",
+      "d) Descargar armas cuando nos encontremos con un grupo de cazadores a menos de 50 metros."
+    ],
+    "correcta": "a) No disparar hacia las zonas de reserva.",
+    "explicacion": "Tema 12 - Pregunta 1"
+  },
+  {
+    "id": 277,
+    "tema": 12,
+    "pregunta": "2. Un menor de 14 años podrá acompañar a su padre a un puesto de palomas donde se emplean armas de fuego:",
+    "opciones": [
+      "a) Verdadero, pudiendo ir a cobrar las piezas que vaya abatiendo el padre.",
+      "b) Falso, al ser menor de 14 años no podrá ir acompañando a su padre.",
+      "c) Verdadero, no pudiendo ir a cobrar las piezas que vaya abatiendo el padre.",
+      "d) Verdadero, pudiendo también cazar con el padre en el mismo puesto."
+    ],
+    "correcta": "c) Verdadero, no pudiendo ir a cobrar las piezas que vaya abatiendo el padre.",
+    "explicacion": "Tema 12 - Pregunta 2"
+  },
+  {
+    "id": 278,
+    "tema": 12,
+    "pregunta": "3. ¿Qué distancias hay que respetar en la práctica de perdiz con reclamo?:",
+    "opciones": [
+      "a) No hay ninguna distancia, es indiferente y de libre decisión por el cazador.",
+      "b) 250 metros entre puestos y 250 metros del puesto a la linde del coto, salvo acuerdo con coto colindante.",
+      "c) 50 metros entre puestos y 250 metros del puesto a la linde del coto, salvo acuerdo con coto colindante.",
+      "d) 250 metros entre puestos y 250 metros del puesto a la linde del coto siempre."
+    ],
+    "correcta": "b) 250 metros entre puestos y 250 metros del puesto a la linde del coto, salvo acuerdo con coto colindante.",
+    "explicacion": "Tema 12 - Pregunta 3"
+  },
+  {
+    "id": 279,
+    "tema": 12,
+    "pregunta": "4. La línea de retranca es:",
+    "opciones": [
+      "a) Una línea que marca los cazadores para que no puedan pasar.",
+      "b) Una línea paralela de cazadores que se ponen detrás de otros cazadores.",
+      "c) Ese término no existe.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "b) Una línea paralela de cazadores que se ponen detrás de otros cazadores.",
+    "explicacion": "Tema 12 - Pregunta 4"
+  },
+  {
+    "id": 280,
+    "tema": 12,
+    "pregunta": "5. ¿Cuándo se considera la prohibición como línea de retranca?:",
+    "opciones": [
+      "a) En caza mayor, línea paralela de cazadores situada a menos de 1.000 metros de los puestos de los cazadores.",
+      "b) En ojeos, línea paralela de cazadores situada a menos de 1.000 metros de los puestos de los cazadores.",
+      "c) En ojeos, línea paralela de cazadores situada a menos de 500 metros de los puestos de los cazadores.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 12 - Pregunta 5"
+  },
+  {
+    "id": 281,
+    "tema": 12,
+    "pregunta": "6. Como medida de seguridad es recomendable siempre el uso de prendas de alta visibilidad, pero ¿cuándo es obligatorio?:",
+    "opciones": [
+      "a) Chaleco, gorra o brazalete en todas las modalidades de puesto fijo, tanto caza mayor como menor.",
+      "b) No es obligatorio, sólo es recomendable.",
+      "c) Chaleco cuando cazamos en mano la caza mayor o para batidores, perreros, guías, es decir, todo aquel que se penetre en el monte en la acción de caza.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 12 - Pregunta 6"
+  },
+  {
+    "id": 282,
+    "tema": 12,
+    "pregunta": "7. Las prendas de alta visibilidad sólo es obligatorio para los cazadores:",
+    "opciones": [
+      "a) Falso, tanto para cazadores como acompañantes.",
+      "b) Verdadero, sólo para cazadores que son los que portan armas.",
+      "c) Verdadero, sólo para cazadores y perros de caza.",
+      "d) Falso, sólo para acompañantes para que no les pase nada."
+    ],
+    "correcta": "a) Falso, tanto para cazadores como acompañantes.",
+    "explicacion": "Tema 12 - Pregunta 7"
+  },
+  {
+    "id": 283,
+    "tema": 12,
+    "pregunta": "8. En monterías, ganchos, batidas o caza mayor en mano, hay que señalar tal circunstancia:",
+    "opciones": [
+      "a) Siempre.",
+      "b) Nunca.",
+      "c) Es obligatorio en aquellas manchas donde atraviese o circunde un camino público y el texto será \"Peligro, acción de caza\".",
+      "d) Es obligatorio en aquellas manchas donde atraviese o circunde un camino público y el texto será \"Prohibido el paso, acción de caza\"."
+    ],
+    "correcta": "c) Es obligatorio en aquellas manchas donde atraviese o circunde un camino público y el texto será \"Peligro, acción de caza\".",
+    "explicacion": "Tema 12 - Pregunta 8"
+  },
+  {
+    "id": 284,
+    "tema": 12,
+    "pregunta": "9. Respecto a la propiedad de las piezas de caza:",
+    "opciones": [
+      "a) En caza mayor es quien lo abate y en caza menor el primero que dé sangre.",
+      "b) En caza menor es quien lo abate/derribe y en caza mayor el primero que dé sangre.",
+      "c) Siempre quien la abate, tanto en caza mayor como en caza menor.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "b) En caza menor es quien lo abate/derribe y en caza mayor el primero que dé sangre.",
+    "explicacion": "Tema 12 - Pregunta 9"
+  },
+  {
+    "id": 285,
+    "tema": 12,
+    "pregunta": "10. Si un cazador está cazando zorzales cerca de la linde del coto y la pieza abatida cae dentro del otro coto. Señala la respuesta incorrecta:",
+    "opciones": [
+      "a) No podrá cobrarla en ningún caso.",
+      "b) Podrá cobrarla si no hay valla y vea la pieza desde el exterior.",
+      "c) No podrá cobrarla sino ve la pieza desde el exterior.",
+      "d) Si hay valla, no podrá cobrarla sin autorización del titular o propietario del terreno."
+    ],
+    "correcta": "a) No podrá cobrarla en ningún caso.",
+    "explicacion": "Tema 12 - Pregunta 10"
+  },
+  {
+    "id": 286,
+    "tema": 12,
+    "pregunta": "11. Cazando disparamos hacia una perdiz roja y cae abatida dentro del coto vecino sin vallar, ¿cuál sería el comportamiento correcto?:",
+    "opciones": [
+      "a) Entrar rápido a cobrar la pieza sin que nadie nos vea.",
+      "b) Sólo podremos enviar a nuestro perro para que cobre la pieza.",
+      "c) Podremos entrar a cobrar la pieza siempre y cuando la veamos desde nuestro coto y con arma descargada y perro atado.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "c) Podremos entrar a cobrar la pieza siempre y cuando la veamos desde nuestro coto y con arma descargada y perro atado.",
+    "explicacion": "Tema 12 - Pregunta 11"
+  },
+  {
+    "id": 287,
+    "tema": 12,
+    "pregunta": "12. Acerca de la ética del cazador, señala los enunciados falsos:",
+    "opciones": [
+      "a) Cazar es matar muchas piezas.",
+      "b) No cace por negocio y no deje piezas heridas en el campo.",
+      "c) Dispare siempre a las piezas aunque no haya posibilidad de cobro.",
+      "d) La a y c son enunciados falsos."
+    ],
+    "correcta": "d) La a y c son enunciados falsos.",
+    "explicacion": "Tema 12 - Pregunta 12"
+  },
+  {
+    "id": 288,
+    "tema": 12,
+    "pregunta": "13. Acerca de la ética del cazador, señala los enunciados verdaderos:",
+    "opciones": [
+      "a) Respete y conozca a los predadores.",
+      "b) Acuerde con agricultores prácticas agrícolas no perjudiciales para la caza.",
+      "c) Utilice únicamente métodos autorizados para la caza.",
+      "d) Todas son enunciados verdaderos."
+    ],
+    "correcta": "d) Todas son enunciados verdaderos.",
+    "explicacion": "Tema 12 - Pregunta 13"
+  },
+  {
+    "id": 289,
+    "tema": 12,
+    "pregunta": "14. Acerca de la ética del cazador, señala los enunciados falsos:",
+    "opciones": [
+      "a) Ayude con su consejo y experiencia a los cazadores jóvenes.",
+      "b) Respete la propiedad privada y demás usuarios de la naturaleza.",
+      "c) No ensucie el campo con basuras o vainas vacías.",
+      "d) No es necesario conocer la biología de las especies ni la legislación."
+    ],
+    "correcta": "d) No es necesario conocer la biología de las especies ni la legislación.",
+    "explicacion": "Tema 12 - Pregunta 14"
+  },
+  {
+    "id": 290,
+    "tema": 12,
+    "pregunta": "15. Acerca de la imagen del cazador, ¿por qué actualmente es un tema importante?:",
+    "opciones": [
+      "a) No es importante, es algo que no influye en la caza.",
+      "b) Porque a través de las redes sociales y aplicaciones móviles, se difunden imágenes y vídeos que llegan a toda la sociedad, ya sean cazadores como contrarios a la caza.",
+      "c) Porque el cazador cada vez tiene que ir mejor vestido cuando caza.",
+      "d) Porque la moda de vestimenta ha llegado también al sector de la caza."
+    ],
+    "correcta": "b) Porque a través de las redes sociales y aplicaciones móviles, se difunden imágenes y vídeos que llegan a toda la sociedad, ya sean cazadores como contrarios a la caza.",
+    "explicacion": "Tema 12 - Pregunta 15"
+  },
+  {
+    "id": 291,
+    "tema": 12,
+    "pregunta": "16. Acerca de la imagen del cazador, señala los enunciados falsos:",
+    "opciones": [
+      "a) No se debe difundir imágenes o vídeos de perros heridos en acción de caza.",
+      "b) No se debe difundir imágenes o vídeos de animales con las vísceras fuera y ensangrentados.",
+      "c) Es aconsejable difundir imágenes o vídeos de trofeos con la cabeza cortada para no ver las vísceras.",
+      "d) No se debe difundir imágenes o vídeos de agarres y/o remate a cuchillo de piezas de caza mayor."
+    ],
+    "correcta": "c) Es aconsejable difundir imágenes o vídeos de trofeos con la cabeza cortada para no ver las vísceras.",
+    "explicacion": "Tema 12 - Pregunta 16"
+  },
+  {
+    "id": 292,
+    "tema": 12,
+    "pregunta": "17. Acerca de la imagen del cazador, señala los enunciados falsos:",
+    "opciones": [
+      "a) No se debe difundir imágenes o vídeos de piezas de caza bebiendo en bebederos instalados por el cazador.",
+      "b) Si debe difundir imágenes o vídeos de piezas abatidas colocadas de manera respetuosa y rindiendo homenaje a su muerte.",
+      "c) Si debe difundir imágenes o vídeos de platos gastronómicos elaborados con la carne que hemos cazado."
+    ],
+    "correcta": "a) No se debe difundir imágenes o vídeos de piezas de caza bebiendo en bebederos instalados por el cazador.",
+    "explicacion": "Tema 12 - Pregunta 17"
+  },
+  {
+    "id": 293,
+    "tema": 12,
+    "pregunta": "18. Acerca de la imagen del cazador, señala los enunciados falsos:",
+    "opciones": [
+      "a) Si se debe difundir imágenes o vídeos de los trabajos que hacen los cazadores en su coto de caza, como instalar bebederos, comederos, etc...",
+      "b) Si debe difundir imágenes o vídeos de perros de caza cuando practican la caza y cómo cuidamos de ellos.",
+      "c) Si debe difundir imágenes o vídeos de la amistad y compañerismo que conlleva la caza.",
+      "d) No se debe difundir imágenes o vídeos de las medidas de seguridad que toman los cazadores en acción de caza."
+    ],
+    "correcta": "d) No se debe difundir imágenes o vídeos de las medidas de seguridad que toman los cazadores en acción de caza.",
+    "explicacion": "Tema 12 - Pregunta 18"
+  },
+  {
+    "id": 294,
+    "tema": 12,
+    "pregunta": "19. Acerca de la imagen del cazador, indica las relaciones correctas:",
+    "opciones": [
+      "a) Foto en redes sociales de una percha de 500 palomas ➔ Mala imagen del cazador.",
+      "b) Vídeo en aplicación del móvil donde se ve instalar un bebedero ➔ Buena imagen del cazador.",
+      "c) Foto en aplicación del móvil de una comida entre amigos tras la jornada de caza ➔ Buena imagen del cazador.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 12 - Pregunta 19"
+  },
+  {
+    "id": 295,
+    "tema": 12,
+    "pregunta": "20. Acerca de la imagen del cazador, indica las relaciones incorrectas:",
+    "opciones": [
+      "a) Foto en redes sociales de un montero subido al lomo de un venado y coge las cuernas como si fuera un manillar de moto ➔ Mala imagen del cazador.",
+      "b) Vídeo en aplicación del móvil de un agarre de jabalí y se ve el perrero rematándolo con cuchillo ➔ Buena imagen del cazador.",
+      "c) Foto en redes sociales dándole de beber a nuestro perro en verano ➔ Buena imagen del cazador.",
+      "d) Foto en redes sociales de sociedad de cazadores donando una cacería a un fin benéfico ➔ Buena imagen del cazador."
+    ],
+    "correcta": "b) Vídeo en aplicación del móvil de un agarre de jabalí y se ve el perrero rematándolo con cuchillo ➔ Buena imagen del cazador.",
+    "explicacion": "Tema 12 - Pregunta 20"
+  },
+  {
+    "id": 296,
+    "tema": 12,
+    "pregunta": "21. Acerca de primeros auxilios, el esguince es:",
+    "opciones": [
+      "a) Un traumatismo.",
+      "b) Una herida.",
+      "c) Una mordedura de animal.",
+      "d) Una herida por arma de fuego."
+    ],
+    "correcta": "a) Un traumatismo.",
+    "explicacion": "Tema 12 - Pregunta 21"
+  },
+  {
+    "id": 297,
+    "tema": 12,
+    "pregunta": "22. Acerca de primeros auxilios, en caso de mordedura de víbora:",
+    "opciones": [
+      "a) Aplicar un torniquete.",
+      "b) Aplicar hielo, sin contacto directo, a la zona afectada.",
+      "c) Traslado urgente a un centro sanitario.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "c) Traslado urgente a un centro sanitario.",
+    "explicacion": "Tema 12 - Pregunta 22"
+  },
+  {
+    "id": 298,
+    "tema": 12,
+    "pregunta": "23. Acerca de primeros auxilios, la luxación es:",
+    "opciones": [
+      "a) Un traumatismo.",
+      "b) Una herida.",
+      "c) Una mordedura de animal.",
+      "d) Una herida por arma de fuego."
+    ],
+    "correcta": "a) Un traumatismo.",
+    "explicacion": "Tema 12 - Pregunta 23"
+  },
+  {
+    "id": 299,
+    "tema": 12,
+    "pregunta": "24. Acerca de primeros auxilios, en caso de esguince:",
+    "opciones": [
+      "a) Inmovilizar el miembro.",
+      "b) En caso de brazo, en forma de cabestrillo.",
+      "c) Trasladar al centro de salud más próximo.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 12 - Pregunta 24"
+  },
+  {
+    "id": 300,
+    "tema": 12,
+    "pregunta": "25. Acerca de primeros auxilios, en caso de herida por bala o perdigones:",
+    "opciones": [
+      "a) Taponar los orificios.",
+      "b) Limpiar la zona y cortar la hemorragia.",
+      "c) Traslado urgente a un centro sanitario.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 12 - Pregunta 25"
   }
 ]
