@@ -1,38 +1,28 @@
 [
   {
     "id": 1,
-    "tema": 1,
-    "pregunta": "¿Cuál de estas especies se considera caza mayor en Andalucía?",
-    "opciones": ["a) Conejo", "b) Perdiz Roja", "c) Ciervo", "d) Liebre"],
-    "correcta": "c) Ciervo",
-    "explicacion": "El ciervo es la especie principal de caza mayor."
+    "tema": 7,
+    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito cinegético?",
+    "opciones": [
+      "a) Sólo Guardia Civil.",
+      "b) Guardia Civil y guarda rural.",
+      "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
+      "d) Tanto agentes de la autoridad como auxiliares de la autoridad."
+    ],
+    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
+    "explicacion": "Actualización según Ley 5/2014 de Seguridad Privada."
   },
   {
     "id": 2,
-    "tema": 2,
-    "pregunta": "¿Qué especie está estrictamente protegida en Andalucía?",
-    "opciones": ["a) Zorro", "b) Águila Imperial Ibérica", "c) Paloma", "d) Codorniz"],
-    "correcta": "b) Águila Imperial Ibérica",
-    "explicacion": "Es una especie emblemática y protegida."
-  },
-  {
-    "id": 3,
-    "tema": 3,
-    "pregunta": "¿En qué modalidad de caza menor se usan perros de muestra?",
-    "opciones": ["a) En mano", "b) Puesto fijo", "c) Cetrería", "d) Ojeo"],
-    "correcta": "a) En mano",
-    "explicacion": "Es la modalidad clásica con perro."
-  },
-  {
-    "id": 25,
-    "tema": 7,
-    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción?",
+    "tema": 8,
+    "pregunta": "¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?",
     "opciones": [
-      "a) Sólo Guardia Civil", 
-      "b) Guardia Civil y Guarda Rural", 
-      "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada."
+      "a) Nunca, son especies no cazables.",
+      "b) Siempre que esté aprobado en el PTC, justificando los daños.",
+      "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
+      "d) Todas son correctas."
     ],
-    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-    "explicacion": "Corrección manual según Ley 5/2014."
+    "correcta": "a) Nunca, son especies no cazables.",
+    "explicacion": "Son especies protegidas/no cinegéticas según la normativa actual."
   }
 ]
