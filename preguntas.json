@@ -401,5 +401,328 @@
   },
   {
     "id": 50, "tema": 2, "pregunta": "¿Los depredadores presentes en un coto de caza se controlan entre sí?", "opciones": ["a) No, cada uno es independiente.", "b) Sí, en equilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "c) Sí, en desequilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "d) Sí, en equilibrio, los depredadores intermediarios controlan a los superdepredadores y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo)."], "correcta": "b) Sí, en equilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "explicacion": "Tema 2 - Pregunta 25"
+  },
+  {
+    "id": 51,
+    "tema": 3,
+    "pregunta": "¿Cómo podemos clasificar las modalidades de caza?",
+    "opciones": [
+      "a) Modalidades de caza deportiva.",
+      "b) Modalidades de caza cinegéticas.",
+      "c) Ambas son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Ambas son correctas.",
+    "explicacion": "Tema 3 - Pregunta 1"
+  },
+  {
+    "id": 52,
+    "tema": 3,
+    "pregunta": "De las siguientes modalidades de caza, indica cuales son deportivas:",
+    "opciones": [
+      "a) Recorridos de caza con arco.",
+      "b) Compark-Sporting.",
+      "c) Palomas a brazo.",
+      "d) Todas las anteriores."
+    ],
+    "correcta": "d) Todas las anteriores.",
+    "explicacion": "Tema 3 - Pregunta 2"
+  },
+  {
+    "id": 53,
+    "tema": 3,
+    "pregunta": "De las siguientes modalidades de caza, indica cuales son deportivas:",
+    "opciones": [
+      "a) Caza menor con perro.",
+      "b) Caza lanzada.",
+      "c) Desde puesto fijo.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 3 - Pregunta 3"
+  },
+  {
+    "id": 54,
+    "tema": 3,
+    "pregunta": "¿Qué diferencia hay entre caza real y caza simulada?",
+    "opciones": [
+      "a) Que la caza real es sobre especies de caza y la simulada sobre objetos que simulan especies de caza.",
+      "b) Que la caza simulada es sobre especies de caza y la real sobre objetos que simulan especies de caza.",
+      "c) No existen esas definiciones.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "a) Que la caza real es sobre especies de caza y la simulada sobre objetos que simulan especies de caza.",
+    "explicacion": "Tema 3 - Pregunta 4"
+  },
+  {
+    "id": 55,
+    "tema": 3,
+    "pregunta": "¿Qué requisitos se necesita para practicar modalidades de caza deportiva sobre caza real?",
+    "opciones": [
+      "a) No requiere ningún requisito.",
+      "b) Ser amante del deporte de la caza.",
+      "c) Estar aprobado en el plan técnico de caza del terreno cinegético donde se practique, pudiendo ser un coto deportivo de caza, un escenario de caza deportiva o en otras situaciones excepcionales autorizadas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Estar aprobado en el plan técnico de caza del terreno cinegético donde se practique, pudiendo ser un coto deportivo de caza, un escenario de caza deportiva o en otras situaciones excepcionales autorizadas.",
+    "explicacion": "Tema 3 - Pregunta 5"
+  },
+  {
+    "id": 56,
+    "tema": 3,
+    "pregunta": "¿Qué requisitos se necesita para practicar modalidades de caza cinegéticas?",
+    "opciones": [
+      "a) No requiere ningún requisito.",
+      "b) Ser amante del deporte de la caza.",
+      "c) Estar aprobado en el plan técnico de caza del terreno cinegético donde se practique.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "c) Estar aprobado en el plan técnico de caza del terreno cinegético donde se practique.",
+    "explicacion": "Tema 3 - Pregunta 6"
+  },
+  {
+    "id": 57,
+    "tema": 3,
+    "pregunta": "Las modalidades de caza cinegéticas se dividen en dos grupos:",
+    "opciones": [
+      "a) Para caza de pluma y pelo.",
+      "b) Para caza mayor y menor.",
+      "c) Para caza de aves y mamíferos.",
+      "d) Para caza de especies voladoras y terrestres."
+    ],
+    "correcta": "b) Para caza mayor y menor.",
+    "explicacion": "Tema 3 - Pregunta 7"
+  },
+  {
+    "id": 58,
+    "tema": 3,
+    "pregunta": "Indique cuáles pertenecen al grupo de modalidades para caza mayor:",
+    "opciones": [
+      "a) Montería, gancho, batida.",
+      "b) En mano.",
+      "c) Rececho.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "d) Todas son correctas.",
+    "explicacion": "Tema 3 - Pregunta 8"
+  },
+  {
+    "id": 59,
+    "tema": 3,
+    "pregunta": "Indique cuáles pertenecen al grupo de modalidades para caza menor:",
+    "opciones": [
+      "a) Al salto.",
+      "b) En mano.",
+      "c) Rececho.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 3 - Pregunta 9"
+  },
+  {
+    "id": 60,
+    "tema": 3,
+    "pregunta": "¿Qué características tiene que tener el terreno cinegético para practicar montería o y ganchos?:",
+    "opciones": [
+      "a) Superficie de terreno cinegético mayor de 500 has.",
+      "b) Aprovechamiento principal caza mayor.",
+      "c) Estar cercado el terreno cinegético.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 3 - Pregunta 10"
+  },
+  {
+    "id": 61,
+    "tema": 3,
+    "pregunta": "Diferencia entre montería y gancho:",
+    "opciones": [
+      "a) No hay diferencias, sólo es una manera de llamarlas.",
+      "b) En la montería participan más de 25 personas y en el gancho hasta 25 personas.",
+      "c) Dentro del mismo periodo hábil y en diferentes manchas, monterías se podrá realizar 1 por cada 500 has. y ganchos 1 por cada 250 has.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 3 - Pregunta 11"
+  },
+  {
+    "id": 62,
+    "tema": 3,
+    "pregunta": "¿Qué es una batida?",
+    "opciones": [
+      "a) Cuando queramos cazar ciervos.",
+      "b) Cacería organizada para cazar jabalíes, corzos o/y zorros.",
+      "c) En cotos de caza menor cuyo aprovechamiento secundario es la mayor para la caza organizada de jabalí.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 3 - Pregunta 12"
+  },
+  {
+    "id": 63,
+    "tema": 3,
+    "pregunta": "¿Una batida de jabalí se podrá realizar en un coto de caza cuya superficie es de 250 has?",
+    "opciones": [
+      "a) No, tendrá que tener más de 500 has.",
+      "b) Sí, porque el coto tiene aprovechamiento principal la caza mayor.",
+      "c) Sí, porque el coto tiene como aprovechamiento principal la caza menor y secundario la caza mayor.",
+      "d) Sí, sin ningún requisito."
+    ],
+    "correcta": "c) Sí, porque el coto tiene como aprovechamiento principal la caza menor y secundario la caza mayor.",
+    "explicacion": "Tema 3 - Pregunta 13"
+  },
+  {
+    "id": 64,
+    "tema": 3,
+    "pregunta": "¿Cuál es la diferencia en los requisitos para crear un coto de aprovechamiento principal la caza mayor y un coto de aprovechamiento principal la caza menor?",
+    "opciones": [
+      "a) No hay diferencias en los requisitos.",
+      "b) Para el aprovechamiento principal de caza mayor, deberá existir especies de caza mayor y el terreno cinegético tener más de 500 has., en cambio, para el aprovechamiento principal de la caza menor deberá tener más de 250has. de terreno cinegético.",
+      "c) Para el aprovechamiento principal de caza menor, el terreno cinegético deberá tener más de 500 has., en cambio, para el aprovechamiento principal de la caza mayor, deberá existir especies de caza mayor y tener más de 250has. de terreno cinegético.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "b) Para el aprovechamiento principal de caza mayor, deberá existir especies de caza mayor y el terreno cinegético tener más de 500 has., en cambio, para el aprovechamiento principal de la caza menor deberá tener más de 250has. de terreno cinegético.",
+    "explicacion": "Tema 3 - Pregunta 14"
+  },
+  {
+    "id": 65,
+    "tema": 3,
+    "pregunta": "Diferencia entre las modalidades de caza menor \"al salto\" y \"en mano\":",
+    "opciones": [
+      "a) Al salto es cuando van un grupo de cazadores cazando y en mano es cuando voy sólo con mi perro que caza a la mano.",
+      "b) En mano es cuando van un grupo de cazadores cazando y al salto es cuando voy sólo con mi perro.",
+      "c) La a y b son correctas.",
+      "d) Ninguna es correcta."
+    ],
+    "correcta": "b) En mano es cuando van un grupo de cazadores cazando y al salto es cuando voy sólo con mi perro.",
+    "explicacion": "Tema 3 - Pregunta 15"
+  },
+  {
+    "id": 66,
+    "tema": 3,
+    "pregunta": "¿Cuántos perros se podrán utilizar en la modalidad de caza menor \"a diente en mano\"?",
+    "opciones": [
+      "a) Exclusivamente 3 perros por cazador.",
+      "b) 5 perros en total, sin condicionantes.",
+      "c) Máximo 3 perros + 2 cachorros menores de 6 meses, por cazador.",
+      "d) Máximo 3 perros + 2 cachorros menores de 18 meses, por cazador y sin armas."
+    ],
+    "correcta": "d) Máximo 3 perros + 2 cachorros menores de 18 meses, por cazador y sin armas.",
+    "explicacion": "Tema 3 - Pregunta 16"
+  },
+  {
+    "id": 67,
+    "tema": 3,
+    "pregunta": "¿Cuántos perros se podrán utilizar en la modalidad de caza menor \"liebre con galgo\"?",
+    "opciones": [
+      "a) Exclusivamente 3 perros por cazador.",
+      "b) 2 perros en total, sin condicionantes.",
+      "c) Máximo 3 perros + 2 cachorros menores de 6 meses, por cazador.",
+      "d) Máximo una collera de 2 perros atraillados + 1 cachorro más menor de 18 meses, por cazador."
+    ],
+    "correcta": "d) Máximo una collera de 2 perros atraillados + 1 cachorro más menor de 18 meses, por cazador.",
+    "explicacion": "Tema 3 - Pregunta 17"
+  },
+  {
+    "id": 68,
+    "tema": 3,
+    "pregunta": "¿Quién es el responsable de la basura y vainas vacías que deja el cazador en campo?",
+    "opciones": [
+      "a) El propio cazador.",
+      "b) El organizador de la cacería colectiva (monterías, batidas, ojeos, etc.)",
+      "c) Siempre en todos los casos el propio cazador.",
+      "d) La a y b son correctas."
+    ],
+    "correcta": "d) La a y b son correctas.",
+    "explicacion": "Tema 3 - Pregunta 18"
+  },
+  {
+    "id": 69,
+    "tema": 3,
+    "pregunta": "¿Cuándo se deberán usar prendas de alta visibilidad?",
+    "opciones": [
+      "a) En puestos fijos tanto en caza mayor como menor, tanto el cazador con acompañantes.",
+      "b) Siempre que se practique la caza en todas las modalidades.",
+      "c) En puestos fijos tanto en caza mayor como menor, sólo el cazador.",
+      "d) Todas son correctas."
+    ],
+    "correcta": "a) En puestos fijos tanto en caza mayor como menor, tanto el cazador con acompañantes.",
+    "explicacion": "Tema 3 - Pregunta 19"
+  },
+  {
+    "id": 70,
+    "tema": 3,
+    "pregunta": "Cuando se practique la caza mayor en mano o se entre al monte ejerciendo con perrero, guía, o batidor en caso de ojeos, se tendrá que poner como prenda de alta visibilidad:",
+    "opciones": [
+      "a) Una gorra.",
+      "b) Un brazalete.",
+      "c) Un chaleco, aunque en caso de ojeos se podrá sustituir por banderas.",
+      "d) Cualquiera de las 3 prendas."
+    ],
+    "correcta": "c) Un chaleco, aunque en caso de ojeos se podrá sustituir por banderas.",
+    "explicacion": "Tema 3 - Pregunta 20"
+  },
+  {
+    "id": 71,
+    "tema": 3,
+    "pregunta": "Diferencia entre el periodo hábil de caza y el periodo de veda:",
+    "opciones": [
+      "a) El periodo hábil de caza es cuando sí se puede cazar, mientras que el periodo de veda es cuando no se puede cazar esa especie.",
+      "b) El periodo hábil de caza es cuando no se puede cazar, mientras que el periodo de veda es cuando sí se puede cazar esa especie.",
+      "c) El periodo de veda significa prohibición y el periodo hábil significa habilitado.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "d) La a y c son correctas.",
+    "explicacion": "Tema 3 - Pregunta 21"
+  },
+  {
+    "id": 72,
+    "tema": 3,
+    "pregunta": "La Orden General de Vedas es donde se reflejan los días y periodo hábiles de caza y el periodo de veda de las especies cinegéticas:",
+    "opciones": [
+      "a) Verdadero y lo aprueba la Consejería competente en materia de caza.",
+      "b) Falso, solo aparecen los periodos de veda, por eso se llama orden general de vedas.",
+      "c) Verdadero y lo aprueba la Federación Andaluza de Caza.",
+      "d) La a y c son correctas."
+    ],
+    "correcta": "a) Verdadero y lo aprueba la Consejería competente en materia de caza.",
+    "explicacion": "Tema 3 - Pregunta 22"
+  },
+  {
+    "id": 73,
+    "tema": 3,
+    "pregunta": "Los lazos, cepos, todo tipo de redes y armas automáticas, son métodos permitidos para la caza:",
+    "opciones": [
+      "a) Falso, están prohibidos por ser métodos masivos y no selectivos.",
+      "b) Falso, aunque sí está permitido las armas automáticas."
+    ],
+    "correcta": "a) Falso, están prohibidos por ser métodos masivos y no selectivos.",
+    "explicacion": "Tema 3 - Pregunta 23"
+  },
+  {
+    "id": 74,
+    "tema": 3,
+    "pregunta": "Indica cuáles de las siguientes especies de caza menor se pueden comercializar (vender):",
+    "opciones": [
+      "a) Zorzales.",
+      "b) Todos los mamíferos cazables, excepto el zorro.",
+      "c) Perdiz roja, ánade real, además del faisán, codorniz y paloma zurita provenientes de granjas cinegéticas.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 3 - Pregunta 24"
+  },
+  {
+    "id": 75,
+    "tema": 3,
+    "pregunta": "¿Qué piezas de caza deben tener una inspección sanitaria obligatoria antes del consumo humano?",
+    "opciones": [
+      "a) Piezas de caza mayor, solo destinado para la venta.",
+      "b) Piezas de caza mayor, ya sea destinado para la venta o para el autoconsumo.",
+      "c) Piezas de caza menor, solo destinado para la venta.",
+      "d) La b y c son correctas."
+    ],
+    "correcta": "d) La b y c son correctas.",
+    "explicacion": "Tema 3 - Pregunta 25"
   }
 ]
