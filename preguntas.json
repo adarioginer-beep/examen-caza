@@ -5,40 +5,34 @@
     "pregunta": "¿Cuál de estas especies se considera caza mayor en Andalucía?",
     "opciones": ["a) Conejo", "b) Perdiz Roja", "c) Ciervo", "d) Liebre"],
     "correcta": "c) Ciervo",
-    "explicacion": "El ciervo es la especie reina de la caza mayor en Andalucía."
+    "explicacion": "El ciervo es la especie principal de caza mayor."
   },
   {
     "id": 2,
     "tema": 2,
-    "pregunta": "¿Qué ave protegida es emblemática de la sierra andaluza?",
-    "opciones": ["a) Águila Imperial Ibérica", "b) Codorniz", "c) Paloma Torcaz", "d) Estornino"],
-    "correcta": "a) Águila Imperial Ibérica",
-    "explicacion": "Especie en peligro de extinción y estrictamente protegida."
+    "pregunta": "¿Qué especie está estrictamente protegida en Andalucía?",
+    "opciones": ["a) Zorro", "b) Águila Imperial Ibérica", "c) Paloma", "d) Codorniz"],
+    "correcta": "b) Águila Imperial Ibérica",
+    "explicacion": "Es una especie emblemática y protegida."
+  },
+  {
+    "id": 3,
+    "tema": 3,
+    "pregunta": "¿En qué modalidad de caza menor se usan perros de muestra?",
+    "opciones": ["a) En mano", "b) Puesto fijo", "c) Cetrería", "d) Ojeo"],
+    "correcta": "a) En mano",
+    "explicacion": "Es la modalidad clásica con perro."
   },
   {
     "id": 25,
     "tema": 7,
-    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito cinegético?",
+    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción?",
     "opciones": [
-      "a) Sólo Guardia Civil.",
-      "b) Guardia Civil y guarda rural.",
-      "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-      "d) Tanto agentes de la autoridad como auxiliares de la autoridad."
+      "a) Sólo Guardia Civil", 
+      "b) Guardia Civil y Guarda Rural", 
+      "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada."
     ],
     "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-    "explicacion": "Corrección manual según Ley 5/2014 de Seguridad Privada."
-  },
-  {
-    "id": 24,
-    "tema": 8,
-    "pregunta": "¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?",
-    "opciones": [
-      "a) Nunca, son especies no cazables.",
-      "b) Siempre que esté aprobado en el PTC, justificando los daños.",
-      "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
-      "d) Todas son correctas."
-    ],
-    "correcta": "a) Nunca, son especies no cazables.",
-    "explicacion": "No son especies cinegéticas y su control está prohibido de forma general."
+    "explicacion": "Corrección manual según Ley 5/2014."
   }
 ]
