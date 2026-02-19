@@ -1,44 +1,202 @@
 [
   {
     "id": 1,
-    "tema": 7,
-    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito cinegético?",
-    "opciones": [
-      "a) Sólo Guardia Civil.",
-      "b) Guardia Civil y guarda rural.",
-      "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-      "d) Tanto agentes de la autoridad como auxiliares de la autoridad."
-    ],
-    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-    "explicacion": "Actualización según Ley 5/2014 de Seguridad Privada."
+    "tema": 1,
+    "pregunta": "¿Qué ley es la base de la regulación de la caza en Andalucía?",
+    "opciones": ["a) Ley 8/2003 de la Flora y la Fauna Silvestres", "b) Ley de Caza de 1970", "c) La Constitución Española", "d) El Reglamento de Armas"],
+    "correcta": "a) Ley 8/2003 de la Flora y la Fauna Silvestres",
+    "explicacion": "Es la norma principal que rige la conservación y el aprovechamiento de la fauna en la comunidad."
   },
   {
     "id": 2,
-    "tema": 8,
-    "pregunta": "¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?",
-    "opciones": [
-      "a) Nunca, son especies no cazables.",
-      "b) Siempre que esté aprobado en el PTC, justificando los daños.",
-      "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
-      "d) Todas son correctas."
-    ],
-    "correcta": "a) Nunca, son especies no cazables.",
-    "explicacion": "Según la normativa actual, no son especies cinegéticas."
+    "tema": 1,
+    "pregunta": "Para cazar en Andalucía, ¿qué documento personal es obligatorio además del DNI?",
+    "opciones": ["a) Licencia de pesca", "b) Licencia de caza de Andalucía en vigor", "c) Carnet de conducir", "d) Título de bachillerato"],
+    "correcta": "b) Licencia de caza de Andalucía en vigor",
+    "explicacion": "La licencia es personal e intransferible y debe estar vigente durante la acción de caza."
   },
   {
     "id": 3,
     "tema": 1,
-    "pregunta": "¿Cuál de las siguientes especies se considera caza mayor en Andalucía?",
-    "opciones": ["a) Conejo", "b) Perdiz Roja", "c) Ciervo", "d) Liebre"],
-    "correcta": "c) Ciervo",
-    "explicacion": "El ciervo es la especie principal de caza mayor en la región."
+    "pregunta": "¿Es obligatorio el seguro de responsabilidad civil para el cazador?",
+    "opciones": ["a) No, es opcional", "b) Sólo si usas perros", "c) Sí, es obligatorio para cubrir daños a terceros", "d) Sólo en caza mayor"],
+    "correcta": "c) Sí, es obligatorio para cubrir daños a terceros",
+    "explicacion": "No se puede cazar sin un seguro que cubra la responsabilidad civil del cazador."
   },
   {
     "id": 4,
-    "tema": 2,
-    "pregunta": "¿Qué especie está estrictamente protegida y es un emblema de la sierra andaluza?",
-    "opciones": ["a) Zorro", "b) Águila Imperial Ibérica", "c) Paloma Torcaz", "d) Codorniz"],
-    "correcta": "b) Águila Imperial Ibérica",
-    "explicacion": "Especie protegida bajo normativas de conservación estrictas."
+    "tema": 1,
+    "pregunta": "¿A partir de qué edad se puede obtener la licencia de caza en Andalucía?",
+    "opciones": ["a) 12 años", "b) 14 años", "c) 16 años", "d) 18 años"],
+    "correcta": "b) 14 años",
+    "explicacion": "A los 14 años se puede obtener la licencia, aunque el uso de armas requiere autorización de tutores."
+  },
+  {
+    "id": 5,
+    "tema": 1,
+    "pregunta": "¿Qué es el Registro Andaluz de Caza?",
+    "opciones": ["a) Una lista de perros", "b) Un registro donde figuran todos los cazadores sancionados y habilitados", "c) Una tienda de armas", "d) El lugar donde se compran los cotos"],
+    "correcta": "b) Un registro donde figuran todos los cazadores sancionados y habilitados",
+    "explicacion": "Es la base de datos oficial de la administración para el control de licencias y sanciones."
+  },
+  {
+    "id": 6,
+    "tema": 1,
+    "pregunta": "¿Qué documento acredita que un terreno es un coto de caza?",
+    "opciones": ["a) Un mapa pintado a mano", "b) La resolución de acotado de la Delegación Provincial", "c) El recibo del IBI", "d) Un contrato de palabra"],
+    "correcta": "b) La resolución de acotado de la Delegación Provincial",
+    "explicacion": "La administración debe declarar formalmente el terreno como cinegético."
+  },
+  {
+    "id": 7,
+    "tema": 1,
+    "pregunta": "¿Qué ocurre si cazas sin licencia en vigor?",
+    "opciones": ["a) No pasa nada", "b) Es una infracción administrativa grave", "c) Te dan una licencia nueva gratis", "d) Sólo te avisan"],
+    "correcta": "b) Es una infracción administrativa grave",
+    "explicacion": "Cazar sin licencia conlleva sanciones económicas y retirada de la habilitación."
+  },
+  {
+    "id": 8,
+    "tema": 1,
+    "pregunta": "¿Quién tiene la competencia exclusiva en materia de caza en el territorio andaluz?",
+    "opciones": ["a) El Estado Central", "b) La Junta de Andalucía", "c) El Ayuntamiento", "d) La Unión Europea"],
+    "correcta": "b) La Junta de Andalucía",
+    "explicacion": "Según el Estatuto de Autonomía, la Junta tiene la competencia exclusiva."
+  },
+  {
+    "id": 9,
+    "tema": 1,
+    "pregunta": "¿Qué se necesita para cazar en un Coto Privado de Caza además de la documentación legal?",
+    "opciones": ["a) Ropa de camuflaje", "b) El permiso por escrito del titular del coto", "c) Una brújula", "d) Ser socio de un club de fútbol"],
+    "correcta": "b) El permiso por escrito del titular del coto",
+    "explicacion": "Cazar en terreno ajeno sin permiso del titular es una infracción grave."
+  },
+  {
+    "id": 10,
+    "tema": 1,
+    "pregunta": "¿Cuál es la función principal de los Agentes de Medio Ambiente en la caza?",
+    "opciones": ["a) Limpiar los montes", "b) Vigilancia, inspección y control del cumplimiento de la normativa", "c) Organizar las monterías", "d) Vender munición"],
+    "correcta": "b) Vigilancia, inspección y control del cumplimiento de la normativa",
+    "explicacion": "Son agentes de la autoridad encargados de velar por la ley en el campo."
+  },
+  {
+    "id": 11,
+    "tema": 1,
+    "pregunta": "¿Qué es una Zona de Reserva en un coto?",
+    "opciones": ["a) Donde se come", "b) Un área del coto donde está prohibido cazar para permitir la reproducción", "c) Donde se guardan los coches", "d) La parte más alta del monte"],
+    "correcta": "b) Un área del coto donde está prohibido cazar para permitir la reproducción",
+    "explicacion": "Sirve para garantizar la sostenibilidad de las poblaciones cinegéticas."
+  },
+  {
+    "id": 12,
+    "tema": 1,
+    "pregunta": "¿Se puede cazar en terrenos no acotados (terrenos libres)?",
+    "opciones": ["a) Sí, libremente", "b) No, la caza solo está permitida en terrenos cinegéticos declarados", "c) Sí, pagando una tasa al ayuntamiento", "d) Sólo menores de edad"],
+    "correcta": "b) No, la caza solo está permitida en terrenos cinegéticos declarados",
+    "explicacion": "En Andalucía no existe la figura del 'terreno libre' para cazar; todo debe ser coto o reserva."
+  },
+  {
+    "id": 13,
+    "tema": 1,
+    "pregunta": "¿Qué documento define cuántos animales se pueden cazar en un coto por temporada?",
+    "opciones": ["a) El periódico", "b) El Plan Técnico de Caza", "c) El calendario escolar", "d) El contrato del guarda"],
+    "correcta": "b) El Plan Técnico de Caza",
+    "explicacion": "El PTC establece los cupos y modalidades autorizadas."
+  },
+  {
+    "id": 14,
+    "tema": 1,
+    "pregunta": "¿Es obligatorio llevar el recibo del seguro durante la caza?",
+    "opciones": ["a) No, basta con decir que lo tienes", "b) Sí, hay que acreditar su vigencia ante la autoridad", "c) Sólo si hay un accidente", "d) No, se puede enseñar días después"],
+    "correcta": "b) Sí, hay que acreditar su vigencia ante la autoridad",
+    "explicacion": "La ley exige portar la documentación que acredite el seguro obligatorio."
+  },
+  {
+    "id": 15,
+    "tema": 1,
+    "pregunta": "¿Qué es la 'Orden de Vedas'?",
+    "opciones": ["a) Un libro de cocina", "b) La norma anual que fija los periodos hábiles de caza", "c) Una prohibición total de cazar", "d) El reglamento de los perros"],
+    "correcta": "b) La norma anual que fija los periodos hábiles de caza",
+    "explicacion": "Establece cuándo empieza y termina la temporada para cada especie."
+  },
+  {
+    "id": 16,
+    "tema": 1,
+    "pregunta": "¿Se considera acción de caza el transporte de armas listas para su uso en el campo?",
+    "opciones": ["a) No, hasta que no dispares", "b) Sí, se considera que se está cazando", "c) Sólo si llevas perro", "d) Depende del modelo del arma"],
+    "correcta": "b) Sí, se considera que se está cazando",
+    "explicacion": "Llevar el arma desenfundada o lista para usar en terreno cinegético es acción de caza."
+  },
+  {
+    "id": 17,
+    "tema": 1,
+    "pregunta": "¿Qué es una Reserva Andaluza de Caza?",
+    "opciones": ["a) Un coto privado", "b) Terrenos gestionados por la Junta para promover la excelencia cinegética", "c) Un zoológico", "d) Un campo de tiro"],
+    "correcta": "b) Terrenos gestionados por la Junta para promover la excelencia cinegética",
+    "explicacion": "Son zonas de gestión pública como Cazorla o Sierra Nevada."
+  },
+  {
+    "id": 18,
+    "tema": 1,
+    "pregunta": "¿Qué autoridad expide la licencia de caza en Andalucía?",
+    "opciones": ["a) La Guardia Civil", "b) La Consejería competente en Medio Ambiente", "c) El Ministerio de Agricultura", "d) La Policía Local"],
+    "correcta": "b) La Consejería competente en Medio Ambiente",
+    "explicacion": "Es el órgano autonómico encargado de la gestión cinegética."
+  },
+  {
+    "id": 19,
+    "tema": 1,
+    "pregunta": "¿Es obligatorio el examen del cazador para nuevos solicitantes?",
+    "opciones": ["a) No, se paga y ya está", "b) Sí, es necesario acreditar la aptitud y conocimientos", "c) Sólo para extranjeros", "d) Sólo para caza mayor"],
+    "correcta": "b) Sí, es necesario acreditar la aptitud y conocimientos",
+    "explicacion": "Los nuevos cazadores deben superar este examen para inscribirse en el Registro."
+  },
+  {
+    "id": 20,
+    "tema": 1,
+    "pregunta": "¿Cuál de estas es una infracción muy grave?",
+    "opciones": ["a) Cazar sin llevar el DNI", "b) Cazar especies protegidas en peligro de extinción", "c) No llevar chaleco reflectante", "d) Perder la gorra"],
+    "correcta": "b) Cazar especies protegidas en peligro de extinción",
+    "explicacion": "Atentar contra la fauna protegida conlleva las sanciones más altas."
+  },
+  {
+    "id": 21,
+    "tema": 1,
+    "pregunta": "¿Qué es el derecho de caza?",
+    "opciones": ["a) Disparar a todo lo que se mueva", "b) La facultad de apropiarse de piezas de caza mediante el uso de artes lícitas", "c) El derecho a entrar en cualquier finca", "d) El derecho a comprar armas"],
+    "correcta": "b) La facultad de apropiarse de piezas de caza mediante el uso de artes lícitas",
+    "explicacion": "Es un derecho regulado que requiere licencia y terreno autorizado."
+  },
+  {
+    "id": 22,
+    "tema": 1,
+    "pregunta": "¿En qué caso se pierde la licencia de caza definitivamente?",
+    "opciones": ["a) Por no cazar en un año", "b) Por sanción administrativa firme o sentencia judicial", "c) Por cambiar de domicilio", "d) Por cumplir 70 años"],
+    "correcta": "b) Por sanción administrativa firme o sentencia judicial",
+    "explicacion": "Las infracciones graves pueden acarrear la inhabilitación para cazar."
+  },
+  {
+    "id": 23,
+    "tema": 1,
+    "pregunta": "¿Qué distancia de seguridad hay que mantener con núcleos urbanos al disparar?",
+    "opciones": ["a) 10 metros", "b) La establecida en las zonas de seguridad (vías, viviendas, etc.)", "c) No hay distancia", "d) 5 metros"],
+    "correcta": "b) La establecida en las zonas de seguridad (vías, viviendas, etc.)",
+    "explicacion": "Existen zonas donde el uso de armas está prohibido para proteger a las personas."
+  },
+  {
+    "id": 24,
+    "tema": 1,
+    "pregunta": "¿Pueden los perros ser inspeccionados durante una jornada de caza?",
+    "opciones": ["a) No, es su vida privada", "b) Sí, para comprobar microchip y cartilla sanitaria", "c) Sólo si muerden a alguien", "d) Sólo si son de raza"],
+    "correcta": "b) Sí, para comprobar microchip y cartilla sanitaria",
+    "explicacion": "Los auxiliares (perros) deben cumplir la normativa de bienestar y sanidad animal."
+  },
+  {
+    "id": 25,
+    "tema": 1,
+    "pregunta": "¿Qué es la 'Habilitación del Cazador'?",
+    "opciones": ["a) Un curso de cocina", "b) La superación del examen o curso que permite sacar la licencia", "c) El permiso para conducir remolques", "d) El seguro de vida"],
+    "correcta": "b) La superación del examen o curso que permite sacar la licencia",
+    "explicacion": "Es el requisito previo para poder solicitar la licencia por primera vez."
   }
 ]
