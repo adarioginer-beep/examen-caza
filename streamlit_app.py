@@ -10,7 +10,6 @@ if 'usuarios' not in st.session_state:
     st.session_state.usuarios = {"admin": "admin"}
 if 'user' not in st.session_state:
     st.session_state.user = None
-# Registro de temas aprobados para mostrar los checks
 if 'temas_aprobados' not in st.session_state:
     st.session_state.temas_aprobados = set()
 
@@ -46,8 +45,6 @@ if not st.session_state.user:
 
 # --- PANEL LATERAL ---
 st.sidebar.title(f"Usuario: {st.session_state.user}")
-
-# Mostrar checks de temas aprobados en el lateral
 st.sidebar.write("### Progreso de Temas")
 for t in range(1, 13):
     check = "✅" if t in st.session_state.temas_aprobados else "⚪"
@@ -57,7 +54,7 @@ menu = st.sidebar.radio("Menú", ["Test por Tema", "Examen Oficial (36 preg)"])
 
 if st.sidebar.button("Cerrar Sesión"):
     st.session_state.user = None
-    st.session_state.temas_aprobados = set() # Limpiar al salir
+    st.session_state.temas_aprobados = set()
     st.rerun()
 
 # --- MODO TEST POR TEMA ---
@@ -67,15 +64,13 @@ if menu == "Test por Tema":
     preguntas_tema = [p for p in banco if p['tema'] == tema_sel]
     
     if preguntas_tema:
-        # Si el tema ya está aprobado, mostrar aviso
         if tema_sel in st.session_state.temas_aprobados:
-            st.success(f"🌟 ¡Ya has aprobado el Tema {tema_sel} en esta sesión!")
+            st.success(f"🌟 ¡Ya has aprobado el Tema {tema_sel}!")
 
         with st.form("form_tema"):
             resp_tema = {}
             for i, p in enumerate(preguntas_tema):
-                st.write(f"### Pregunta {i+1}")
-                st.write(f"**{p['pregunta']}**")
+                st.write(f"### {i+1}. {p['pregunta']}")
                 resp_tema[p['id']] = st.radio("Selecciona:", p['opciones'], key=f"t_{p['id']}", index=None)
             
             corregir_t = st.form_submit_button("Corregir Tema")
@@ -83,25 +78,25 @@ if menu == "Test por Tema":
         if corregir_t:
             aciertos_t = 0
             st.write("---")
+            st.subheader("📋 Corrección Detallada:")
+            
             for i, p in enumerate(preguntas_tema):
                 resp = resp_tema[p['id']]
                 if resp == p['correcta']:
                     aciertos_t += 1
-                    st.write(f"✅ **{i+1}.** Correcta")
+                    st.write(f"✅ **Pregunta {i+1}:** ¡Correcto! -> *{p['correcta']}*")
                 else:
-                    st.write(f"❌ **{i+1}.** Fallada (Era: {p['correcta']})")
+                    st.write(f"❌ **Pregunta {i+1}:** Fallaste.")
+                    st.write(f"&nbsp;&nbsp;&nbsp;&nbsp;**Tu respuesta:** {resp if resp else 'No respondida'}")
+                    st.write(f"&nbsp;&nbsp;&nbsp;&nbsp;**La respuesta correcta es:** {p['correcta']}")
             
-            # Lógica de aprobado: 20 de 25
-            total = len(preguntas_tema)
-            st.write(f"### Resultado: {aciertos_t} de {total}")
-            
+            st.write("---")
             if aciertos_t >= 20:
                 st.balloons()
-                st.success("🎉 ¡APROBADO! Check añadido al panel lateral.")
+                st.success(f"🎉 ¡APROBADO! ({aciertos_t} de {len(preguntas_tema)})")
                 st.session_state.temas_aprobados.add(tema_sel)
-                st.rerun() # Para actualizar el check en el lateral inmediatamente
             else:
-                st.error(f"❌ SUSPENSO. Necesitas al menos 20 aciertos (tienes {aciertos_t}).")
+                st.error(f"❌ SUSPENSO. ({aciertos_t} de {len(preguntas_tema)}). Necesitas 20.")
 
 # --- MODO EXAMEN OFICIAL ---
 elif menu == "Examen Oficial (36 preg)":
@@ -118,24 +113,31 @@ elif menu == "Examen Oficial (36 preg)":
             st.session_state.examen_actual = random.sample(banco, 36)
         
         with st.form("form_examen"):
-            respuestas_usuario = {}
+            resp_ex = {}
             for i, p in enumerate(st.session_state.examen_actual):
-                st.write(f"### Pregunta {i+1}")
-                st.write(f"**{p['pregunta']}**")
-                respuestas_usuario[p['id']] = st.radio("Selecciona:", p['opciones'], key=f"ex_{p['id']}", index=None)
+                st.write(f"### {i+1}. {p['pregunta']}")
+                resp_ex[p['id']] = st.radio("Selecciona:", p['opciones'], key=f"ex_{p['id']}", index=None)
             
             enviado = st.form_submit_button("Finalizar y Corregir")
 
         if enviado:
             aciertos = 0
-            for i, p in enumerate(st.session_state.examen_actual):
-                if respuestas_usuario[p['id']] == p['correcta']:
-                    aciertos += 1
+            st.write("---")
+            st.subheader("📋 Corrección Detallada:")
             
-            # Lógica de aprobado: 20 de 36
-            st.write(f"### Resultado final: {aciertos} de 36")
+            for i, p in enumerate(st.session_state.examen_actual):
+                resp = resp_ex[p['id']]
+                if resp == p['correcta']:
+                    aciertos += 1
+                    st.write(f"✅ **Pregunta {i+1}:** Correcto.")
+                else:
+                    st.write(f"❌ **Pregunta {i+1}:** Fallada.")
+                    st.write(f"&nbsp;&nbsp;&nbsp;&nbsp;**Tu respuesta:** {resp if resp else 'No respondida'}")
+                    st.write(f"&nbsp;&nbsp;&nbsp;&nbsp;**La correcta era:** {p['correcta']}")
+            
+            st.write("---")
             if aciertos >= 20:
                 st.balloons()
-                st.success("🏆 ¡APTO! Has superado el examen.")
+                st.success(f"🏆 ¡APTO! Has acertado {aciertos} de 36.")
             else:
-                st.error(f"👎 NO APTO. Has acertado {aciertos}. Necesitas 20.")
+                st.error(f"👎 NO APTO. Has acertado {aciertos} de 36. Necesitas 20.")
