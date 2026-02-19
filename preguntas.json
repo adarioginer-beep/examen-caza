@@ -323,5 +323,83 @@
     ],
     "correcta": "b) Ánsar común y ánade real.",
     "explicacion": "El ánsar y el ánade real son las aves acuáticas más representativas de la lista cazable."
+  },
+  {
+    "id": 1, "tema": 1, "pregunta": "¿Una especie cazable residente es?", "opciones": ["a) Aquella que reside en el domicilio del cazador.", "b) Aquella que permanece durante todo el año en el coto y alrededores.", "c) Aquella que se desplaza desde diferentes latitudes en función del clima.", "d) Ninguna de las anteriores es correcta."], "correcta": "b) Aquella que permanece durante todo el año en el coto y alrededores.", "explicacion": "Definición oficial del manual."
+  },
+  {
+    "id": 26, "tema": 2, "pregunta": "¿Qué es una especie amenazada?", "opciones": ["a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "b) Especie desaparecida.", "c) Especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "d) Todas son correctas."], "correcta": "a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "explicacion": "Tema 2 - Pregunta 1"
+  },
+  {
+    "id": 27, "tema": 2, "pregunta": "¿Qué es una especie extinguida?", "opciones": ["a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "b) Especie desaparecida.", "c) Especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "d) Todas son correctas."], "correcta": "b) Especie desaparecida.", "explicacion": "Tema 2 - Pregunta 2"
+  },
+  {
+    "id": 28, "tema": 2, "pregunta": "¿Qué es una especie protegida?", "opciones": ["a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "b) Especie desaparecida.", "c) Especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "d) Todas son correctas."], "correcta": "c) Especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "explicacion": "Tema 2 - Pregunta 3"
+  },
+  {
+    "id": 29, "tema": 2, "pregunta": "En el Catálogo Español de Especies Amenazadas, se encuentran:", "opciones": ["a) Las especies amenazadas en todo el territorio español.", "b) Las especies no cazables.", "c) Las especies cazables.", "d) Las especies protegidas en todo el territorio español."], "correcta": "a) Las especies amenazadas en todo el territorio español.", "explicacion": "Tema 2 - Pregunta 4"
+  },
+  {
+    "id": 30, "tema": 2, "pregunta": "En el Listado de Especies Silvestres en Régimen de Protección Especial, se encuentran:", "opciones": ["a) Las especies amenazadas en todo el territorio español.", "b) Las especies no cazables.", "c) Las especies cazables.", "d) Las especies protegidas en todo el territorio español."], "correcta": "d) Las especies protegidas en todo el territorio español.", "explicacion": "Tema 2 - Pregunta 5"
+  },
+  {
+    "id": 31, "tema": 2, "pregunta": "En el Catálogo Andaluz de Especies Amenazadas y en el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial, se encuentran:", "opciones": ["a) Las especies amenazadas en Andalucía.", "b) Las especies protegidas en Andalucía.", "c) Las especies cazables.", "d) La a y b son correctas."], "correcta": "d) La a y b son correctas.", "explicacion": "Tema 2 - Pregunta 6"
+  },
+  {
+    "id": 32, "tema": 2, "pregunta": "Actualmente, en Andalucía las especies amenazadas se catalogan como especies:", "opciones": ["a) En peligro de extinción.", "b) Vulnerable.", "c) Ambas son correctas.", "d) Ninguna es correcta."], "correcta": "c) Ambas son correctas.", "explicacion": "Tema 2 - Pregunta 7"
+  },
+  {
+    "id": 33, "tema": 2, "pregunta": "¿Qué criterios existen para que una especie pueda ser incluida en el Catálogo Andaluz de Especies Amenazadas?", "opciones": ["a) El tamaño, la estructura y la tendencia de las poblaciones.", "b) El área de distribución, considerando su fragmentación y tendencia.", "c) Los factores de amenaza identificados y probabilidad de extinción.", "d) Todas son correctas."], "correcta": "d) Todas son correctas.", "explicacion": "Tema 2 - Pregunta 8"
+  },
+  {
+    "id": 34, "tema": 2, "pregunta": "¿Qué criterios existen para que una especie pueda ser incluida en el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial?", "opciones": ["a) El tamaño, la estructura y la tendencia de las poblaciones.", "b) El valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "c) Los factores de amenaza identificados y probabilidad de extinción.", "d) Todas son correctas."], "correcta": "b) El valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "explicacion": "Tema 2 - Pregunta 9"
+  },
+  {
+    "id": 35, "tema": 2, "pregunta": "¿Una especie que no esté incluida en el Catálogo Andaluz de Especies Amenazadas o en el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial es, por tanto, cazable?", "opciones": ["a) Sí, porque no está ni amenazada ni protegida.", "b) No, porque para que sea cazable debe estar en el listado de especies cazables en Andalucía.", "c) No, porque hay especies que no están amenazadas ni protegidas pero tampoco son cazables.", "d) La b y c son correctas."], "correcta": "d) La b y c son correctas.", "explicacion": "Tema 2 - Pregunta 10"
+  },
+  {
+    "id": 36, "tema": 2, "pregunta": "¿Andalucía puede descatalogar una especie amenazada que sí lo esté a nivel estatal?", "opciones": ["a) No, porque el nivel estatal tiene rango superior al andaluz.", "b) Sí, siempre y cuando Andalucía lo vea oportuno.", "c) Ninguna es correcta.", "d) Ambas son correctas."], "correcta": "a) No, porque el nivel estatal tiene rango superior al andaluz.", "explicacion": "Tema 2 - Pregunta 11"
+  },
+  {
+    "id": 37, "tema": 2, "pregunta": "Según el Catálogo Andaluz de Especies Amenazadas, son aves en peligro de extinción:", "opciones": ["a) Avetoro común, garcilla cangrejera, cigüeña negra, avutarda común.", "b) Malvasía cabeciblanca, porrón pardo, cerceta pardilla, focha cornuda.", "c) Quebrantahuesos, alimoche común, águila imperial ibérica, milano real.", "d) Todas son correctas."], "correcta": "d) Todas son correctas.", "explicacion": "Tema 2 - Pregunta 12"
+  },
+  {
+    "id": 38, "tema": 2, "pregunta": "El torillo andaluz es una especie catalogada como:", "opciones": ["a) Especie en peligro de extinción.", "b) Especie protegida.", "c) Especie extinta en estado silvestre, según Resolución del 1 de agosto de 2018.", "d) Especie cazable porque se parece a la codorniz."], "correcta": "c) Especie extinta en estado silvestre, según Resolución del 1 de agosto de 2018.", "explicacion": "Tema 2 - Pregunta 13"
+  },
+  {
+    "id": 39, "tema": 2, "pregunta": "Según el Catálogo Andaluz de Especies Amenazadas, son aves vulnerables:", "opciones": ["a) Sisón común, ganga común, ortega.", "b) Águila pescadora, águila perdicera, buitre negro.", "c) Aguilucho cenizo, cormorán moñudo.", "d) Todas son correctas."], "correcta": "d) Todas son correctas.", "explicacion": "Tema 2 - Pregunta 14"
+  },
+  {
+    "id": 40, "tema": 2, "pregunta": "Según el Catálogo Andaluz de Especies Amenazadas, son mamíferos en peligro de extinción:", "opciones": ["a) Lince ibérico.", "b) Meloncillo.", "c) Gato montés.", "d) Todas son correctas."], "correcta": "a) Lince ibérico.", "explicacion": "Tema 2 - Pregunta 15"
+  },
+  {
+    "id": 41, "tema": 2, "pregunta": "El águila real, búho real, águila calzada, buitre leonado son ejemplos de:", "opciones": ["a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "b) Especies amenazadas, según el Catálogo Andaluz de Especies Amenazadas.", "c) Especies cazables.", "d) Ninguna es correcta."], "correcta": "a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "explicacion": "Tema 2 - Pregunta 16"
+  },
+  {
+    "id": 42, "tema": 2, "pregunta": "El petirrojo, mosquitero común, cigüeña blanca, rabilargo, chova piquirroja, milano negro son ejemplos de:", "opciones": ["a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "b) Especies amenazadas, según el Catálogo Andaluz de Especies Amenazadas.", "c) Especies cazables.", "d) Ninguna es correcta."], "correcta": "a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "explicacion": "Tema 2 - Pregunta 17"
+  },
+  {
+    "id": 43, "tema": 2, "pregunta": "Nutria, gato montés, lobo, lagarto ocelado, culebra de escalera, víbora hocicuda son ejemplos de:", "opciones": ["a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "b) Especies amenazadas, según el Catálogo Andaluz de Especies Amenazadas.", "c) Especies cazables.", "d) Ninguna es correcta."], "correcta": "a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "explicacion": "Tema 2 - Pregunta 18"
+  },
+  {
+    "id": 44, "tema": 2, "pregunta": "Marta, meloncillo, tejón, gineta son ejemplos de:", "opciones": ["a) Especies protegidas, según el Listado Andaluz de Especies Silvestres en Régimen de Protección Especial.", "b) Especies amenazadas, según el Catálogo Andaluz de Especies Amenazadas.", "c) Especies cazables.", "d) Ninguna es correcta."], "correcta": "d) Ninguna es correcta.", "explicacion": "Tema 2 - Pregunta 19"
+  },
+  {
+    "id": 45, "tema": 2, "pregunta": "¿Qué es un C.R.E.A.?", "opciones": ["a) Centro Residencial de Especies Amenazadas.", "b) Centro de Recuperación de Especies Amenazadas.", "c) Centro de Educación Especial Avanzada.", "d) Curso de Recuperación de Estudios de Armas."], "correcta": "b) Centro de Recuperación de Especies Amenazadas.", "explicacion": "Tema 2 - Pregunta 20"
+  },
+  {
+    "id": 46, "tema": 2, "pregunta": "La importancia de la presencia del Lince Ibérico en un coto de caza se debe a:", "opciones": ["a) Aumenta la biodiversidad y el privilegio de cazar en un terreno con la presencia de esta especie amenazada pues pocos cotos de caza pueden presumir de eso.", "b) Depreda zorros, meloncillos y otros competidores de su alimento.", "c) Aumenta las poblaciones de caza (conejo y perdiz roja) al disminuir las poblaciones de otros depredadores generalistas como el zorro o meloncillo.", "d) Todas las respuestas son correctas."], "correcta": "d) Todas las respuestas son correctas.", "explicacion": "Tema 2 - Pregunta 21"
+  },
+  {
+    "id": 47, "tema": 2, "pregunta": "La distribución actual del Lince Ibérico en Andalucía es:", "opciones": ["a) Doñana-Aljarafe.", "b) Sierra Morena (Guadalmellato, Cardeña-Andújar, Guarrizas).", "c) Por toda Andalucía.", "d) La a y b son correctas."], "correcta": "d) La a y b son correctas.", "explicacion": "Tema 2 - Pregunta 22"
+  },
+  {
+    "id": 48, "tema": 2, "pregunta": "La importancia de la presencia del Lobo Ibérico en un coto de caza se debe a:", "opciones": ["a) Aumenta la biodiversidad y el privilegio de cazar en un terreno con la presencia de esta especie amenazada pues pocos cotos de caza pueden presumir de eso.", "b) En caza mayor, elimina individuos con malformaciones o enfermos (con tuberculosis, por ejemplo), mejorando la genética y la sanidad, respectivamente en las poblaciones de caza mayor de un coto de caza.", "c) Aumenta las poblaciones de caza menor (conejo y perdiz roja) al disminuir las poblaciones de otros depredadores generalistas como el zorro, jabalí o meloncillo.", "d) Todas las respuestas son correctas."], "correcta": "d) Todas las respuestas son correctas.", "explicacion": "Tema 2 - Pregunta 23"
+  },
+  {
+    "id": 49, "tema": 2, "pregunta": "¿Cuál es el papel del depredador en un coto de caza?", "opciones": ["a) Elimina individuos enfermos y con malformaciones.", "b) Mejora genética de las poblaciones.", "c) Aumenta la calidad de la caza.", "d) Todas las respuestas son correctas."], "correcta": "d) Todas las respuestas son correctas.", "explicacion": "Tema 2 - Pregunta 24"
+  },
+  {
+    "id": 50, "tema": 2, "pregunta": "¿Los depredadores presentes en un coto de caza se controlan entre sí?", "opciones": ["a) No, cada uno es independiente.", "b) Sí, en equilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "c) Sí, en desequilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "d) Sí, en equilibrio, los depredadores intermediarios controlan a los superdepredadores y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo)."], "correcta": "b) Sí, en equilibrio, los superdepredadores controlan a los depredadores intermediarios y éstos a su vez controlan las plagas que afectan a la caza (ratas, por ejemplo).", "explicacion": "Tema 2 - Pregunta 25"
   }
 ]
