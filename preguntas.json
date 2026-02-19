@@ -23,6 +23,22 @@
       "d) Todas son correctas."
     ],
     "correcta": "a) Nunca, son especies no cazables.",
-    "explicacion": "Son especies protegidas/no cinegéticas según la normativa actual."
+    "explicacion": "Según la normativa actual, no son especies cinegéticas."
+  },
+  {
+    "id": 3,
+    "tema": 1,
+    "pregunta": "¿Cuál de las siguientes especies se considera caza mayor en Andalucía?",
+    "opciones": ["a) Conejo", "b) Perdiz Roja", "c) Ciervo", "d) Liebre"],
+    "correcta": "c) Ciervo",
+    "explicacion": "El ciervo es la especie principal de caza mayor en la región."
+  },
+  {
+    "id": 4,
+    "tema": 2,
+    "pregunta": "¿Qué especie está estrictamente protegida y es un emblema de la sierra andaluza?",
+    "opciones": ["a) Zorro", "b) Águila Imperial Ibérica", "c) Paloma Torcaz", "d) Codorniz"],
+    "correcta": "b) Águila Imperial Ibérica",
+    "explicacion": "Especie protegida bajo normativas de conservación estrictas."
   }
 ]
