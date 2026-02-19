@@ -325,9 +325,6 @@
     "explicacion": "El ánsar y el ánade real son las aves acuáticas más representativas de la lista cazable."
   },
   {
-    "id": 1, "tema": 1, "pregunta": "¿Una especie cazable residente es?", "opciones": ["a) Aquella que reside en el domicilio del cazador.", "b) Aquella que permanece durante todo el año en el coto y alrededores.", "c) Aquella que se desplaza desde diferentes latitudes en función del clima.", "d) Ninguna de las anteriores es correcta."], "correcta": "b) Aquella que permanece durante todo el año en el coto y alrededores.", "explicacion": "Definición oficial del manual."
-  },
-  {
     "id": 26, "tema": 2, "pregunta": "¿Qué es una especie amenazada?", "opciones": ["a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "b) Especie desaparecida.", "c) Especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza o grado de amenaza.", "d) Todas son correctas."], "correcta": "a) Especie cuya supervivencia es poco probable si continúan los factores que le ha llevado a esa situación.", "explicacion": "Tema 2 - Pregunta 1"
   },
   {
