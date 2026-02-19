@@ -2,27 +2,27 @@
   {
     "id": 1,
     "tema": 7,
-    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito?",
-    "opciones": [
+    "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito cinegético?",
+    "options": [
       "a) Sólo Guardia Civil.",
       "b) Guardia Civil y guarda rural.",
       "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
       "d) Tanto agentes de la autoridad como auxiliares de la autoridad."
     ],
-    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-    "explicacion": "Corrección manual: Según Ley 5/2014 de Seguridad Privada."
+    "answer": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
+    "explanation": "Actualización según Ley 5/2014 de Seguridad Privada solicitada por el usuario."
   },
   {
     "id": 2,
     "tema": 8,
     "pregunta": "¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?",
-    "opciones": [
+    "options": [
       "a) Nunca, son especies no cazables.",
       "b) Siempre que esté aprobado en el PTC, justificando los daños.",
       "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
       "d) Todas son correctas."
     ],
-    "correcta": "a) Nunca, son especies no cazables.",
-    "explicacion": "Son especies protegidas/no cinegéticas según la normativa actual."
+    "answer": "a) Nunca, son especies no cazables.",
+    "explanation": "Son especies protegidas/no cinegéticas según la normativa actual andaluza."
   }
 ]
