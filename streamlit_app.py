@@ -14,8 +14,8 @@ def get_data():
     return conn.read(ttl=0)
 
 def save_user(df_nuevo):
-    # El código dentro de la función DEBE tener esta sangría
-    conn.update(worksheet="Sheet1", data=df_nuevo)
+    # Asegúrate de que este bloque tenga exactamente 4 espacios de sangría a la izquierda
+    conn.update(data=df_nuevo)
 
 # Cargar banco de preguntas
 with open('preguntas.json', 'r', encoding='utf-8') as f:
