@@ -1358,9 +1358,9 @@
       "a) 500 has. si el aprovechamiento principal es la caza menor.",
       "b) 1.000 has. si el aprovechamiento principal es la caza mayor.",
       "c) 500 has. si el aprovechamiento principal es la caza mayor.",
-      "d) Ninguna es correcta."
+      "d) La a y b son correctas."
     ],
-    "correcta": "c) 500 has. si el aprovechamiento principal es la caza mayor.",
+    "correcta": "d) La a y b son correctas.",
     "explicacion": "Superficie mínima para cotos deportivos de caza mayor."
   },
   {
