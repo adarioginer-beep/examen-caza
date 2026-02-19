@@ -1,28 +1,44 @@
 [
   {
     "id": 1,
+    "tema": 1,
+    "pregunta": "¿Cuál de estas especies se considera caza mayor en Andalucía?",
+    "opciones": ["a) Conejo", "b) Perdiz Roja", "c) Ciervo", "d) Liebre"],
+    "correcta": "c) Ciervo",
+    "explicacion": "El ciervo es la especie reina de la caza mayor en Andalucía."
+  },
+  {
+    "id": 2,
+    "tema": 2,
+    "pregunta": "¿Qué ave protegida es emblemática de la sierra andaluza?",
+    "opciones": ["a) Águila Imperial Ibérica", "b) Codorniz", "c) Paloma Torcaz", "d) Estornino"],
+    "correcta": "a) Águila Imperial Ibérica",
+    "explicacion": "Especie en peligro de extinción y estrictamente protegida."
+  },
+  {
+    "id": 25,
     "tema": 7,
     "pregunta": "¿Quién puede retirar armas de fuego ante una infracción o delito cinegético?",
-    "options": [
+    "opciones": [
       "a) Sólo Guardia Civil.",
       "b) Guardia Civil y guarda rural.",
       "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
       "d) Tanto agentes de la autoridad como auxiliares de la autoridad."
     ],
-    "answer": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
-    "explanation": "Actualización según Ley 5/2014 de Seguridad Privada solicitada por el usuario."
+    "correcta": "c) Sólo agentes de la autoridad y guardas rurales con la especialidad en caza, conforme al art. 34.4, ley 5/2014, 4 de Abril, de seguridad privada.",
+    "explicacion": "Corrección manual según Ley 5/2014 de Seguridad Privada."
   },
   {
-    "id": 2,
+    "id": 24,
     "tema": 8,
     "pregunta": "¿Se podrá llevar a cabo el control de perros errantes y gatos asilvestrados en un coto de caza?",
-    "options": [
+    "opciones": [
       "a) Nunca, son especies no cazables.",
       "b) Siempre que esté aprobado en el PTC, justificando los daños.",
       "c) Siempre que esté aprobado en el PTC, sin justificar nada.",
       "d) Todas son correctas."
     ],
-    "answer": "a) Nunca, son especies no cazables.",
-    "explanation": "Son especies protegidas/no cinegéticas según la normativa actual andaluza."
+    "correcta": "a) Nunca, son especies no cazables.",
+    "explicacion": "No son especies cinegéticas y su control está prohibido de forma general."
   }
 ]
