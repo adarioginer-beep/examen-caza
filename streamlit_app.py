@@ -14,7 +14,9 @@ def get_data():
     return conn.read(ttl=0)
 
 def save_user(df_nuevo):
-    conn.update(data=df_nuevo)
+    def save_user(df_nuevo):
+    # Forzamos la actualización de toda la hoja
+    conn.update(worksheet="Sheet1", data=df_nuevo)
 
 # Cargar preguntas
 with open('preguntas.json', 'r', encoding='utf-8') as f:
